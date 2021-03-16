@@ -20,7 +20,7 @@ if ($_GET['pass'] == 'p4pu4b4r4t123') {
 		$url = explode("?", $_SERVER[REQUEST_URI])[0];
 		$name = "http://$_SERVER[HTTP_HOST]".$url."?link=".$cat[0];
 		$link = $cat[1];
-	echo '<a href="'.$name.'">'.$name.'</a> : <a href="'.$link.'">'.$link.'</a><br>';
+	echo '<a href="'.$name.'">'.$cat[0].'</a> : <a href="'.$link.'">'.$link.'</a><br>';
 	}
 }
 
