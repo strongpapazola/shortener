@@ -1,0 +1,64 @@
+from subprocess import Popen, PIPE
+from flask import Flask, request, redirect
+import json
+
+app = Flask(__name__)
+filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+#filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+endpoint = ""
+
+def appendfile(data):
+	f = open(filedata,"a")
+	f.write(str(data))
+	f.close()
+
+def showfile():
+	f = open(filedata,"r").read()
+	return "<pre>"+f+"</pre>"
+
+def shell(cmd):
+	return Popen(cmd, shell=True, stdout=PIPE).stdout.read().decode('utf-8')
+
+@app.route(endpoint+'/YXNsa2pkZ2doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRsa2Fqc2hkbGthanNoZAo', methods=["GET","POST"])
+def admin():
+	shorturl = "http://"+request.headers['Host']+endpoint+"/"
+	html = """
+<form method="POST" action="">
+<input type="text" name="name" placeholder="Name"><br><input type="text" name="link" placeholder="Link"><br><button type="submit">Submit</button>
+</form>
+"""
+
+	try:
+		if "name" in request.form and "link" in request.form:
+			name = request.form["name"]
+			link = request.form["link"]
+			appendfile('{"name":"%s","link":"%s","count":0}\n' % (name, link,))
+			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br>"+showfile()
+		else:
+			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br>"+showfile()
+	except Exception as e:
+		return str(e)
+
+@app.route(endpoint+'/<rute>', methods=["GET"])
+def rute(rute):
+	try:
+		data = open(filedata,"r").read().splitlines()
+		for i in range(0, len(data)):
+			print(data[i])
+			if rute == json.loads(data[i])['name']:
+				row = json.loads(data[i])
+				row['count'] = row['count']+1
+				row = str(row).replace("'","\"")
+				data[i] = row+"\n"
+				f = open(filedata,"w")
+				f.writelines(data)
+				f.close()
+				print(data)
+				return redirect(json.loads(data[i])['link'], code=302)
+#				return 'lol'
+		return "Ga Ada Ngab"
+	except Exception as e:
+		return str(e)
+
+if "__main__" == __name__:
+	app.run(host="0.0.0.0",port=8000,debug=True)
