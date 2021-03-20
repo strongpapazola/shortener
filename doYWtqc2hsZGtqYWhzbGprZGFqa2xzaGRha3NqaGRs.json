@@ -1,12 +1,18 @@
 [
    {
-      "name": "server",
+      "name": "coworking",
       "link": "https://systar.my.id",
-      "count": 6
+      "count": 0,
+      "ips": []
    },
    {
       "name": "refiExpbig",
-      "link": "https://systar.my.id",
-      "count": 1
+      "s_link": "http://portal.bisaai.id:8000/s/refiExpbig",
+      "link": "https://lms.onnocenter.or.id/wiki/index.php/Main_Page",
+      "count": 3,
+      "ips": [
+         "125.161.32.98",
+         "116.206.14.35"
+      ]
    }
 ]

@@ -2,10 +2,10 @@ from flask import Flask, request, redirect
 import json
 
 app = Flask(__name__)
-filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
-#filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
-endpoint = ""
-#endpoint = "/s"
+#filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+#endpoint = ""
+endpoint = "/s"
 
 def appendfile(data):
 	f = open(filedata,"w")
@@ -32,7 +32,7 @@ def admin():
 			name = request.form["name"]
 			link = request.form["link"]
 			data = showfile()
-			data.append({"name":name,"link":link,"count":0})
+			data.append({"name":name,"s_link":shorturl+name,"link":link,"count":0,"ips":[]})
 			appendfile(json.dumps(data, indent=3).replace("'","\""))
 			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br><pre>"+json.dumps(showfile(),indent=3)+"</pre>"
 		else:
@@ -46,13 +46,15 @@ def rute(rute):
 		data = showfile()
 		for i in range(0, len(data)):
 			if rute == data[i]['name']:
-				data[i]['count'] = data[i]['count'] + 1
-				appendfile(json.dumps(data,indent=3).replace("'","\""))
-				return redirect(data[i]['link'],code=302)
+				if request.remote_addr not in data[i]['ips']:
+					data[i]['ips'].append(request.remote_addr)
+					data[i]['count'] = data[i]['count'] + 1
+					appendfile(json.dumps(data,indent=3).replace("'","\""))
+				return redirect(data[i]['link'],code=301)
 		return "404 Error Not Found"
 	except Exception as e:
 		return str(e)
 
 if "__main__" == __name__:
-	app.run(host="0.0.0.0",port=8000)
-#	app.run(host="0.0.0.0",port=8000,debug=True)
+#	app.run(host="0.0.0.0",port=8000)
+	app.run(host="0.0.0.0",port=8000,debug=True)
