@@ -6605,7 +6605,18 @@
       "name": "designcrane",
       "s_link": "http://bisa.ai/s/designcrane",
       "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpt-hwk.com%2Fwp-content%2Fuploads%2F2020%2F06%2FDisplacement-Perancangan-Struktur.jpg&imgrefurl=https%3A%2F%2Fpt-hwk.com%2Fen%2Fcrane-design%2F&tbnid=xGrcKGQpBI155M&vet=12ahUKEwiRz5uAk832AhXFktgFHTf6CXQQMygGegUIARDLAQ..i&docid=zoasuy9vWjIWYM&w=600&h=460&q=design%20crane&ved=2ahUKEwiRz5uAk832AhXFktgFHTf6CXQQMygGegUIARDLAQ#imgrc=RhXTS43vj9uWaM&imgdii=6npX4ccZPvJFcM",
-      "count": 0,
-      "ips": []
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bintang98037",
+      "s_link": "http://bisa.ai/s/bintang98037",
+      "link": "https://google.com",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
    }
 ]

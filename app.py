@@ -2,7 +2,7 @@ from flask import Flask, request, redirect
 import json
 
 app = Flask(__name__)
-filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+filedata = "/home/infra/shortener-prod/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
 #filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
 endpoint = ""
 #endpoint = "/s"
@@ -62,5 +62,5 @@ def rute(rute):
 		return str(e)
 
 if "__main__" == __name__:
-	app.run(host="0.0.0.0",port=8000)
+	app.run(host="0.0.0.0",port=5000)
 #	app.run(host="0.0.0.0",port=8000,debug=True)

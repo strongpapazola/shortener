@@ -1,0 +1,11 @@
+[Unit]
+Description=shortener service
+
+[Service]
+Restart=on-failure
+RestartSec=5s
+User=root
+ExecStart=/home/infra/anaconda3/bin/python3 /home/infra/shortener-prod/app.py
+
+[Install]
+WantedBy=multi-user.target
