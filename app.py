@@ -2,10 +2,10 @@ from flask import Flask, request, redirect
 import json
 
 app = Flask(__name__)
-#filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
-filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
-#endpoint = ""
-endpoint = "/s"
+filedata = "/app/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+#filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+endpoint = ""
+#endpoint = "/s"
 
 def appendfile(data):
 	f = open(filedata,"w")
@@ -34,9 +34,9 @@ def admin():
 			data = showfile()
 			data.append({"name":name,"s_link":shorturl+name,"link":link,"count":0,"ips":[]})
 			appendfile(json.dumps(data, indent=3).replace("'","\""))
-			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br><pre>"+json.dumps(showfile(),indent=3)+"</pre>"
+			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br>Cara tau lokasi ip : http://ipinfo.io/[ip]<br><pre>"+json.dumps(list(reversed(showfile())),indent=3)+"</pre>"
 		else:
-			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br><pre>"+json.dumps(showfile(),indent=3)+"</pre>"
+			return html+"<br>Cara pakai : "+shorturl+"[namalink]<br>Cara tau lokasi ip : http://ipinfo.io/[ip]<br><pre>"+json.dumps(list(reversed(showfile())),indent=3)+"</pre>"
 	except Exception as e:
 		return str(e)
 
@@ -46,7 +46,13 @@ def rute(rute):
 		data = showfile()
 		for i in range(0, len(data)):
 			if rute == data[i]['name']:
-				if request.remote_addr not in data[i]['ips']:
+				if data[i]['ips'] != []:
+					for j in data[i]['ips']:
+						if request.remote_addr != j:
+							data[i]['ips'].append(request.remote_addr)
+							data[i]['count'] = data[i]['count'] + 1
+							appendfile(json.dumps(data,indent=3).replace("'","\""))
+				else:
 					data[i]['ips'].append(request.remote_addr)
 					data[i]['count'] = data[i]['count'] + 1
 					appendfile(json.dumps(data,indent=3).replace("'","\""))
@@ -56,5 +62,5 @@ def rute(rute):
 		return str(e)
 
 if "__main__" == __name__:
-#	app.run(host="0.0.0.0",port=8000)
-	app.run(host="0.0.0.0",port=8000,debug=True)
+	app.run(host="0.0.0.0",port=8000)
+#	app.run(host="0.0.0.0",port=8000,debug=True)

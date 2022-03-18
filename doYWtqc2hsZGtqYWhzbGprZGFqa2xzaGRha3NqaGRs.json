@@ -1,11 +1,5 @@
 [
    {
-      "name": "coworking",
-      "link": "https://systar.my.id",
-      "count": 0,
-      "ips": []
-   },
-   {
       "name": "refiExpbig",
       "s_link": "http://portal.bisaai.id:8000/s/refiExpbig",
       "link": "https://lms.onnocenter.or.id/wiki/index.php/Main_Page",
@@ -14,5 +8,6604 @@
          "125.161.32.98",
          "116.206.14.35"
       ]
+   },
+   {
+      "name": "onno",
+      "s_link": "http://portal.bisaai.id:8000/s/onno",
+      "link": "https://lms.onnocenter.or.id/wiki/index.php/Main_Page",
+      "count": 1,
+      "ips": [
+         "125.161.32.98"
+      ]
+   },
+   {
+      "name": "coworking",
+      "s_link": "http://portal.bisaai.id:8000/s/coworking",
+      "link": "https://tampil.id/event/detail/VFZSQmVVOVJQVDA9",
+      "count": 2,
+      "ips": [
+         "125.161.32.98",
+         "117.53.46.162"
+      ]
+   },
+   {
+      "name": "LiveDS_Bandung",
+      "s_link": "http://bisa.ai/s/LiveDS_Bandung",
+      "link": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSddJJhcI6TTGrNrL8jKQ4JNH6nNdtrcnGeMQK6NMJa_r_9s-w/viewform",
+      "count": 15,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "LiveML_Bandung",
+      "s_link": "http://bisa.ai/s/LiveML_Bandung",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdGEucwUasgFfkJrfmjIVaJATYV5BQ1JMwTK1cxcQQ5oOL5ZQ/viewform",
+      "count": 74,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "LiveDS_Jakarta",
+      "s_link": "http://bisa.ai/s/LiveDS_Jakarta",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScGlUvyKDnJd0aFC59SKoP_Q8vlqFWXDh_NZd3PbazF6DneVQ/viewform",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "LiveML_Jakarta",
+      "s_link": "http://bisa.ai/s/LiveML_Jakarta",
+      "link": "https://docs.google.com/forms/d/1EOxnUt3qjSeQ_EFwZeUIALo263ynXFamBAzDLeMOdC8/viewform",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "macojt_april",
+      "s_link": "http://bisa.ai/s/macojt_april",
+      "link": "https://docs.google.com/forms/d/1FL2QOBj3jrzvUq-W5V_bHFyiAzeWyKq7aBaCLLRary4/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "HimatikaTrilogi08",
+      "s_link": "http://tampil.id/s/HimatikaTrilogi08",
+      "link": "https://tampil.id/event/detail/VFZSQk1rMW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "WebinarJetsonNano01",
+      "s_link": "http://tampil.id/s/WebinarJetsonNano01",
+      "link": "https://tampil.id/event/detail/VFZSQmVFNW5QVDA9",
+      "count": 69,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "HimatikaTrilogi09",
+      "s_link": "http://tampil.id/s/HimatikaTrilogi09",
+      "link": "https://tampil.id/event/detail/VFZSQk1rMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "ngabuburit_bareng",
+      "s_link": "http://tampil.id/s/ngabuburit_bareng",
+      "link": "https://tampil.id/event/detail/VFZSQk5FMUJQVDA9",
+      "count": 30,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "provider01",
+      "s_link": "http://tampil.id/s/provider01",
+      "link": "https://tampil.id/event/detail/VFZSQk1FOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "HimatikaTrilogi10",
+      "s_link": "http://tampil.id/s/HimatikaTrilogi10",
+      "link": "https://tampil.id/event/detail/VFZSQk1rOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "provider02",
+      "s_link": "http://tampil.id/s/provider02",
+      "link": "https://tampil.id/event/detail/VFZSQk1VMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "HimatikaTrilogi11",
+      "s_link": "http://tampil.id/s/HimatikaTrilogi11",
+      "link": "https://tampil.id/event/detail/VFZSQk5FMVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "LinkedIn/Muhammad-Rizky",
+      "s_link": "http://bisa.ai/s/LinkedIn/Muhammad-Rizky",
+      "link": "https://www.linkedin.com/in/muhammad-rizky-b94a671a9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "Gizi",
+      "s_link": "http://bisa.ai/s/Gizi",
+      "link": "https://tampil.id/event/detail/VFZSQmQwNUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "LinkedIn/Muhammad-Rizky",
+      "s_link": "http://bisa.ai/s/LinkedIn/Muhammad-Rizky",
+      "link": "https://www.linkedin.com/in/muhammad-rizky-b94a671a9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "Muhammad-Rizky",
+      "s_link": "http://bisa.ai/s/Muhammad-Rizky",
+      "link": "https://www.linkedin.com/in/muhammad-rizky-b94a671a9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "LinkedIn_Muhammad-Rizky",
+      "s_link": "http://bisa.ai/s/LinkedIn_Muhammad-Rizky",
+      "link": "https://www.linkedin.com/in/muhammad-rizky-b94a671a9/",
+      "count": 63,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "livedse_bandung",
+      "s_link": "http://bisa.ai/s/livedse_bandung",
+      "link": "https://forms.gle/Vn2thp6GCB6pZzAw9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedl_bandung",
+      "s_link": "http://bisa.ai/s/livedl_bandung",
+      "link": "https://forms.gle/bGFEK2Yd4CuTidzeA",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livedl_jakarta",
+      "s_link": "http://bisa.ai/s/livedl_jakarta",
+      "link": "https://forms.gle/XxMHyQ2Fvy6dxkXk9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livedsms_jakarta",
+      "s_link": "http://bisa.ai/s/livedsms_jakarta",
+      "link": "https://forms.gle/YpmcEbXKnsHkFgfm8",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedsms_bandung",
+      "s_link": "http://bisa.ai/s/livedsms_bandung",
+      "link": "https://forms.gle/57Q8D5PtEQjk6Hhk8",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livemlnn_bandung",
+      "s_link": "http://bisa.ai/s/livemlnn_bandung",
+      "link": "https://forms.gle/ZJ8Qp9JuLG5EGHsr7",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livemlnn_jakarta",
+      "s_link": "http://bisa.ai/s/livemlnn_jakarta",
+      "link": "https://forms.gle/BMbnoX4AJXD9pgSx7",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livedsab_jakarta",
+      "s_link": "http://bisa.ai/s/livedsab_jakarta",
+      "link": "https://forms.gle/DaxMPbpBhzN1QrsK6",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livedsab_bandung",
+      "s_link": "http://bisa.ai/s/livedsab_bandung",
+      "link": "https://forms.gle/2ATsMgTWbzhaNKtb7",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livefsp_bandung",
+      "s_link": "http://bisa.ai/s/livefsp_bandung",
+      "link": "https://forms.gle/PeNpVzxCqXsK8ZNe8",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livefsp_jakarta",
+      "s_link": "http://bisa.ai/s/livefsp_jakarta",
+      "link": "https://forms.gle/5imkW4dkaXTgH6ss6",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livedsavs_jakarta",
+      "s_link": "http://bisa.ai/s/livedsavs_jakarta",
+      "link": "https://forms.gle/ZekKgK4NBGJ94RGi9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedsavs_bandung",
+      "s_link": "http://bisa.ai/s/livedsavs_bandung",
+      "link": "https://forms.gle/QuEw6K3sBz87gQgi7",
+      "count": 78,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_april",
+      "s_link": "http://bisa.ai/s/mcojt_april",
+      "link": "https://docs.google.com/forms/d/1FL2QOBj3jrzvUq-W5V_bHFyiAzeWyKq7aBaCLLRary4/",
+      "count": 5,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "NastranInCad",
+      "s_link": "http://tampil.id/s/NastranInCad",
+      "link": "https://tampil.id/event/detail/VDFSWk1RPT0",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "EddyNugroho",
+      "s_link": "http://bisa.ai/s/EddyNugroho",
+      "link": "https://vcon2.bisaai.id/bigbluebutton/api/join?fullName=Eddy+Nugroho&meetingID=22000&password=bisaaitampil&redirect=true&checksum=b57ce0d5e65efdcfd068f21966071807395ddd0c",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "key_challenges",
+      "s_link": "http://tampil.id/s/key_challenges",
+      "link": "https://tampil.id/event/detail/VFZSQk5FNTNQVDA9",
+      "count": 5,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "DataTampil_Dewan_Pakar",
+      "s_link": "http://bisa.ai/s/DataTampil_Dewan_Pakar",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfQ-SJzW3sNG4-O0n8XnWDZdcZQkDcIr199Kgaiu4KbtRIGYg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "dewan_pakar01",
+      "s_link": "http://tampil.id/s/dewan_pakar01",
+      "link": "https://tampil.id/event/detail/VFZSQk5VMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "dewan_pakar01",
+      "s_link": "http://tampil.id/s/dewan_pakar01",
+      "link": "https://tampil.id/event/detail/VFZSQk5VMTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "aplikasi_android",
+      "s_link": "http://bisa.ai/s/aplikasi_android",
+      "link": "https://play.google.com/store/apps/details?id=com.pos.bisatampil",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "aplikasi_tampil",
+      "s_link": "http://bisa.ai/s/aplikasi_tampil",
+      "link": "https://play.google.com/store/apps/details?id=com.pos.bisatampil",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "poltekmeta01",
+      "s_link": "http://tampil.id/s/poltekmeta01",
+      "link": "https://tampil.id/event/detail/VFZSQk5VNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livemli_jakarta",
+      "s_link": "http://bisa.ai/s/livemli_jakarta",
+      "link": "https://docs.google.com/forms/d/1IQHn0ao0WKkYQzwNA8YODtx74YpVt9ZC_G3y4YXSul0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livebpp_jakarta",
+      "s_link": "http://bisa.ai/s/livebpp_jakarta",
+      "link": "https://docs.google.com/forms/d/1McxNd2U7kU8XYgdTBnCTsR7pstkZuAwrSvsdwHPPQBI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedse_bandung",
+      "s_link": "http://bisa.ai/s/livedse_bandung",
+      "link": "https://docs.google.com/forms/d/1YZrl1QEvEbXbQxmXflLAfhjkzumGeMkd9JGXPq4dJt0/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "livepafr_bandung",
+      "s_link": "http://bisa.ai/s/livepafr_bandung",
+      "link": "https://docs.google.com/forms/d/1Z6m1vIWY4QLkGT5byF8DqcPm8qAbAYIU-dh6PngLpKc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "data.science_onno.pubo",
+      "s_link": "http://bisa.ai/s/data.science_onno.pubo",
+      "link": "https://youtu.be/7M0b_KotXCE",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "data.science_onno.purbo",
+      "s_link": "http://bisa.ai/s/data.science_onno.purbo",
+      "link": "https://youtu.be/7M0b_KotXCE",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ITATS02",
+      "s_link": "http://tampil.id/s/ITATS02",
+      "link": "https://tampil.id/event/detail/VFZSRmVFMTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_ITATS02",
+      "s_link": "http://tampil.id/s/webinar_ITATS02",
+      "link": "https://tampil.id/event/detail/VFZSRmVFMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "Bisa.AI_DewanPakar",
+      "s_link": "http://bisa.ai/s/Bisa.AI_DewanPakar",
+      "link": "https://youtu.be/oCXTk-R3dQE",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "Youtube_Bisa.AI_DewanPakar",
+      "s_link": "http://bisa.ai/s/Youtube_Bisa.AI_DewanPakar",
+      "link": "bisa.ai/s/Bisa.AI_DewanPakar",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "evaluasiform_datascience",
+      "s_link": "http://bisa.ai/s/evaluasiform_datascience",
+      "link": "https://docs.google.com/forms/d/1AcxyL1D9VaueqnZYxuyHyFbmtOQHQ0wOjoYNyxOySX8/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "wa.me/+628975695649",
+      "s_link": "http://bisa.ai/s/wa.me/+628975695649",
+      "link": "CP_BisaAI",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "pesantren_kilat",
+      "s_link": "http://bisa.ai/s/pesantren_kilat",
+      "link": "https://tampil.id/event/detail/VFZSRmVVOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "admin",
+      "s_link": "http://bisa.ai/s/admin",
+      "link": "8932260881",
+      "count": 28,
+      "ips": [
+         "103.41.206.83",
+         "123.58.210.133",
+         "103.30.180.144",
+         "103.30.180.144",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador2",
+      "s_link": "http://bisa.ai/s/StudentAmbassador2",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfZvQ08T6phN4gsAr4p-Cvid3iWHYtTn1ETaD3iQfKlg0nXbA/viewform?usp=sf_link",
+      "count": 16,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "livedse2_bandung",
+      "s_link": "http://bisa.ai/s/livedse2_bandung",
+      "link": "https://docs.google.com/forms/d/1YZrl1QEvEbXbQxmXflLAfhjkzumGeMkd9JGXPq4dJt0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "catur_sakti03",
+      "s_link": "http://tampil.id/s/catur_sakti03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrMW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "catur_sakti04",
+      "s_link": "http://tampil.id/s/catur_sakti04",
+      "link": "https://tampil.id/event/detail/VFZSRmVrMVJQVDA9",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_mei",
+      "s_link": "http://bisa.ai/s/mcojt_mei",
+      "link": "https://docs.google.com/forms/d/1Edbpro0XuBEtDt8OVlQYbXcZEy5BSWrQHMTNMGjgeEI/edit",
+      "count": 14,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pesantrenkilat_bisaai",
+      "s_link": "http://tampil.id/s/pesantrenkilat_bisaai",
+      "link": "https://tampil.id/event/detail/VFZSRmVVOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "catur_sakti01",
+      "s_link": "http://tampil.id/s/catur_sakti01",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "catur_sakti02",
+      "s_link": "http://tampil.id/s/catur_sakti02",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "",
+      "s_link": "http://tampil.id/s/",
+      "link": "",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "dewan_pakar03",
+      "s_link": "http://tampil.id/s/dewan_pakar03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "tampil.id/s/webinar_ITATS03",
+      "s_link": "http://tampil.id/s/tampil.id/s/webinar_ITATS03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "ITATS03",
+      "s_link": "http://tampil.id/s/ITATS03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "ITATS03",
+      "s_link": "http://tampil.id/s/ITATS03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_ITATS03",
+      "s_link": "http://tampil.id/s/webinar_ITATS03",
+      "link": "https://tampil.id/event/detail/VFZSRmVrNTNQVDA9",
+      "count": 12,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_fluter",
+      "s_link": "http://tampil.id/s/workshop_fluter",
+      "link": "https://www.tampil.id/event/detail/VFZSRmVrOVJQVDA9",
+      "count": 13,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "poltek_tegal01",
+      "s_link": "http://tampil.id/s/poltek_tegal01",
+      "link": "https://tampil.id/event/detail/VFZSRk1FMUJQVDA9",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "tca-preevent1",
+      "s_link": "http://tampil.id/s/tca-preevent1",
+      "link": "https://tampil.id/event/detail/VFZSRmVrOUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "absensi_tca-preevent1",
+      "s_link": "http://tampil.id/s/absensi_tca-preevent1",
+      "link": "https://forms.gle/WcnYmRbvrR4rs45w7",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedse3_bandung",
+      "s_link": "http://bisa.ai/s/livedse3_bandung",
+      "link": "https://docs.google.com/forms/d/1CVY2EmXARoZdYOKPnH2b2Tr_rUpvMxuEjT8gUm6lGfM/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "IAIE",
+      "s_link": "http://bisa.ai/s/IAIE",
+      "link": "https://docs.google.com/forms/d/1qF1148EgcvHNa8ngqgqi6TLfbahR6yykq-0DoPK2RbQ/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "livedse4_bandung",
+      "s_link": "http://bisa.ai/s/livedse4_bandung",
+      "link": "https://docs.google.com/forms/d/1dXcm4dpQ97kJDW3Uz3GZHExoJJhBGgt4dONt3LmFOIE/edit",
+      "count": 5,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "livebrml_jakarta",
+      "s_link": "http://bisa.ai/s/livebrml_jakarta",
+      "link": "https://docs.google.com/forms/d/1ahPRWisoZvf_rA_4DeJb7EhwtCCoGfbLkTvRIzn7-OQ/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_lampungdev01",
+      "s_link": "http://tampil.id/s/webinar_lampungdev01",
+      "link": "https://tampil.id/event/detail/VFZSRk1FNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "preneur_academy04",
+      "s_link": "http://tampil.id/s/preneur_academy04",
+      "link": "https://tampil.id/event/detail/VFZSRk1FNTNQVDA9",
+      "count": 81,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanproject3",
+      "s_link": "http://bisa.ai/s/pemilihanproject3",
+      "link": "https://docs.google.com/forms/d/14iUwG9Yo36EvzyNqpXkiK6vQ06FixtaOiaUca2pLClI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "preneur_academy05",
+      "s_link": "http://tampil.id/s/preneur_academy05",
+      "link": "https://tampil.id/event/detail/VFZSSmVFNW5QVDA9",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "liveworkshop_dpp",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_dpp",
+      "link": "https://docs.google.com/forms/d/1Mpa5YMcKULjunHtiN-LjzZunLUnJX5xHhDMq9TFrrLc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "liveworkshop_css",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_css",
+      "link": "https://docs.google.com/forms/d/1GyrbSUtf90WX8xyw1VckdZjhzr8dPjLHnFaykJoTOrg/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "liveworkshop_dmp",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_dmp",
+      "link": "https://docs.google.com/forms/d/1Psw4RszzE67glvBZ8zUqTe0LbG7pu2jZ_EYqBQ1B3vk/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "liveworkshop_dse5",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_dse5",
+      "link": "https://docs.google.com/forms/d/1GdUKhxg59iRj6RGp1OLn2fWYJFnMlYuMRYWQZu_8wK8/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "liveworkshop_dpp2",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_dpp2",
+      "link": "https://docs.google.com/forms/d/1B405PPKKH3jlPY262wwlIXlpl2cHuqaeOjk0N8a8mR0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "liveworkshop_css2",
+      "s_link": "http://www.bisa.ai/s/liveworkshop_css2",
+      "link": "https://docs.google.com/forms/d/199NAt3mpFDliQo16MzZZ6qIv3_Sis9Q_Pw2fc5TdOFU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "latihan_cad-rizky",
+      "s_link": "http://www.bisa.ai/s/latihan_cad-rizky",
+      "link": "https://drive.google.com/folderview?id=1Pd5-wJo4lC_9RCB6ef6PcefoU535Opgu",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "kuesioner",
+      "s_link": "http://www.bisa.ai/s/kuesioner",
+      "link": "https://docs.google.com/forms/d/1tKOK8jNpe10ramX3Fb__oD4-V2AxldXF14Rb81rEH9I/edit",
+      "count": 7,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "weight_loss",
+      "s_link": "http://tampil.id/s/weight_loss",
+      "link": "https://tampil.id/event/detail/VFZSSmVVNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "webinar_inventor04",
+      "s_link": "http://tampil.id/s/webinar_inventor04",
+      "link": "https://tampil.id/event/detail/VFZSSmVVNTNQVDA9",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_inventor05",
+      "s_link": "http://tampil.id/s/webinar_inventor05",
+      "link": "https://tampil.id/event/detail/VFZSSmVVOUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "testimoni_bisaai",
+      "s_link": "http://www.bisa.ai/s/testimoni_bisaai",
+      "link": "https://docs.google.com/forms/d/1PpY7PJqMO75hNOX8q_QlLBYcB_4LUclLa0D4l24mqOc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "inventor01",
+      "s_link": "http://tampil.id/s/inventor01",
+      "link": "https://tampil.id/event/detail/VFZSSmVrMUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "inventor02",
+      "s_link": "http://tampil.id/s/inventor02",
+      "link": "https://tampil.id/event/detail/VFZSSmVrMVJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_inventor02",
+      "s_link": "http://tampil.id/s/webinar_inventor02",
+      "link": "https://tampil.id/event/detail/VFZSSmVrMVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "webinar_inventor01",
+      "s_link": "http://tampil.id/s/webinar_inventor01",
+      "link": "https://tampil.id/event/detail/VFZSSmVrMUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "webinar_inventor03",
+      "s_link": "http://tampil.id/s/webinar_inventor03",
+      "link": "https://tampil.id/event/detail/VFZSSmVVOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "webinar_inventor04",
+      "s_link": "http://tampil.id/s/webinar_inventor04",
+      "link": "https://tampil.id/event/detail/VFZSSmVVNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_inventor05",
+      "s_link": "http://tampil.id/s/webinar_inventor05",
+      "link": "https://tampil.id/event/detail/VFZSSmVVOUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "company_visit",
+      "s_link": "http://tampil.id/s/company_visit",
+      "link": "https://tampil.id/event/detail/VFZSSmVVNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "industrial_revolution",
+      "s_link": "http://tampil.id/s/industrial_revolution",
+      "link": "https://tampil.id/event/detail/VFZSSmVVNUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_ITATS04",
+      "s_link": "http://tampil.id/s/workshop_ITATS04",
+      "link": "https:/tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_ITATS04",
+      "s_link": "http://tampil.id/s/workshop_ITATS04",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_ITATS04",
+      "s_link": "http://tampil.id/s/workshop_ITATS04",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "bimtek_ITATS",
+      "s_link": "http://tampil.id/s/bimtek_ITATS",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMVJQVDA9",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_ITATS04",
+      "s_link": "http://tampil.id/s/workshop_ITATS04",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_ITATS ",
+      "s_link": "http://tampil.id/s/workshop_ITATS ",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_ITATS",
+      "s_link": "http://tampil.id/s/workshop_ITATS",
+      "link": "https://tampil.id/event/detail/VFZSSk1VMUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dvp",
+      "s_link": "http://www.bisa.ai/s/workshop_dvp",
+      "link": "https://docs.google.com/forms/d/1kC1OefIcQT6awQsdCwr2TNjpA5cHLGC9-2f5lYp0Huo/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dse6",
+      "s_link": "http://www.bisa.ai/s/workshop_dse6",
+      "link": "https://docs.google.com/forms/d/1gDTf0Suicx6a0JHU5wJb2Sn5MowkA1eTybCEdQbW_pw/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dpp3",
+      "s_link": "http://www.bisa.ai/s/workshop_dpp3",
+      "link": "https://docs.google.com/forms/d/1hVfRLZ0VBx88KtkrnCwu24g9EZPjz_gee2sL2URD0cU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_cs3",
+      "s_link": "http://www.bisa.ai/s/workshop_cs3",
+      "link": "https://docs.google.com/forms/d/1_0qT-J8xjgq1rVgpdYS433kpZw5Onzn56GKTO1Q-TcY/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_pycsds",
+      "s_link": "http://www.bisa.ai/s/workshop_pycsds",
+      "link": "https://docs.google.com/forms/d/1ZjsNmp6Sfgx03LRGsrLP5oJMpyHErBVWk2zi45Adl14/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dsf",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf",
+      "link": "https://docs.google.com/forms/d/16Pd9EYk76s3hxNtgR4f6rDZ7iai0e-Yn7B3VgPWuRco/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_react",
+      "s_link": "http://www.bisa.ai/s/workshop_react",
+      "link": "https://docs.google.com/forms/d/1ctNQNOhosS7iRt1Oby3xAqihA6wcE_mk9QGNmDHTuGs/edit",
+      "count": 7,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_mei",
+      "s_link": "http://www.bisa.ai/s/pengumpulan_tugas_mei",
+      "link": "https://docs.google.com/forms/d/1s16BErb7uj3WGqN001Fhf7NKTjt7kOT9FCHAkC1Jw0o/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sosialisasi_magang",
+      "s_link": "http://www.bisa.ai/s/sosialisasi_magang",
+      "link": "https://youtu.be/qIHK8scEYbc",
+      "count": 10,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_dosen",
+      "s_link": "http://www.bisa.ai/s/magang_dosen",
+      "link": "https://youtu.be/f-vIoQNMy7k",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "asisten_mcojtfullstack",
+      "s_link": "http://www.bisa.ai/s/asisten_mcojtfullstack",
+      "link": "https://docs.google.com/forms/d/1OomCyB-loZpwAK31So5tRddKl38CcfXFxpZQp8v28hw/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "asisten_mcojtdatascience",
+      "s_link": "http://www.bisa.ai/s/asisten_mcojtdatascience",
+      "link": "https://docs.google.com/forms/d/1YX8Id1Pxtm6A1cuQryYtJ2TnWPFCYFxrhkHlXNHEWXE/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "mcojt_juli",
+      "s_link": "http://www.bisa.ai/s/mcojt_juli",
+      "link": "https://docs.google.com/forms/d/1-4TrmPJ5qr4YXMXPqHQHxmWGhza9ru-1l3hCYU17m40/edit",
+      "count": 18,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "marketing_sosmed",
+      "s_link": "http://tampil.id/s/marketing_sosmed",
+      "link": "https://tampil.id/event/detail/VFZSSk1rMW5QVDA9",
+      "count": 5,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dvp2",
+      "s_link": "http://www.bisa.ai/s/workshop_dvp2",
+      "link": "https://docs.google.com/forms/d/1Zmf1vtiO4Gx6PsM5Kq1uBzaEVtOfrLYVsUp-uFkTEDY/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pycsds2",
+      "s_link": "http://www.bisa.ai/s/workshop_pycsds2",
+      "link": "https://docs.google.com/forms/d/1O4b09MmVwB9bLyGd_eYvwO3kGNX1DnepV5uSaA-oZR8/edit",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs4",
+      "s_link": "http://www.bisa.ai/s/workshop_cs4",
+      "link": "https://docs.google.com/forms/d/1WaMqr3RUFjWXOPwazHlswIy3BKn9jHZ-lf9rpDevaO8/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse7",
+      "s_link": "http://www.bisa.ai/s/workshop_dse7",
+      "link": "https://docs.google.com/forms/d/1PKdZO-tfoxW2IAlxYWFz3PdmIXpqL-1itUQTChJTbQ8/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf2",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf2",
+      "link": "https://docs.google.com/forms/d/10WqNV1Psb9dAZD3WWguQRZHLjI_n4L5_JZTw2eTn1mM/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react2",
+      "s_link": "http://www.bisa.ai/s/workshop_react2",
+      "link": "https://docs.google.com/forms/d/1fQxLRy3IuFUf5jmD9V5-xaw-mq_IBNcUzi-aJ8jutzo/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dpp4",
+      "s_link": "http://www.bisa.ai/s/workshop_dpp4",
+      "link": "https://docs.google.com/forms/d/1mVnsBXAIqhXHkC34zrnxc0CT-BavERI0YhWAIr7S9ws/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "stimik_ikmi",
+      "s_link": "http://www.bisa.ai/s/stimik_ikmi",
+      "link": "https://docs.google.com/forms/d/1RKLrcObQiJLwYD7ZTY7YFM3OZUCY6bCkap41Oaliess/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "kampus_bisaai",
+      "s_link": "http://www.bisa.ai/s/kampus_bisaai",
+      "link": "https://docs.google.com/forms/d/1RKLrcObQiJLwYD7ZTY7YFM3OZUCY6bCkap41Oaliess/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "daftar_tamu",
+      "s_link": "http://www.bisa.ai/s/daftar_tamu",
+      "link": "https://docs.google.com/forms/d/1RKLrcObQiJLwYD7ZTY7YFM3OZUCY6bCkap41Oaliess/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "asia_euniversity",
+      "s_link": "http://www.bisa.ai/s/asia_euniversity",
+      "link": "https://docs.google.com/forms/d/1d_HklEiQm6XBX4kKkh3oEo-al_G4vcyKKLkFHeDxKfc/edit",
+      "count": 26,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "stmik_ikmi",
+      "s_link": "http://www.bisa.ai/s/stmik_ikmi",
+      "link": "https://docs.google.com/forms/d/1ML8t4FYEIvyZiQhlRzu-iZ22EkOMG5eBIf0OeN98YbA/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dvp3",
+      "s_link": "http://www.bisa.ai/s/workshop_dvp3",
+      "link": "https://docs.google.com/forms/d/1pUdKkzjpZo__deFwhmmGZKxzxcgz3noIcQcUTooZGD0/edit",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pycsds3",
+      "s_link": "http://www.bisa.ai/s/workshop_pycsds3",
+      "link": "https://docs.google.com/forms/d/1Xhz4WUn_5tQ8HGJFxHwLHgXSfXzcJ0EObSiegoY7Wys/edit",
+      "count": 10,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse8",
+      "s_link": "http://www.bisa.ai/s/workshop_dse8",
+      "link": "https://docs.google.com/forms/d/1yZ6wuhf61bbPcrvlhTRoeUZGqtl_PndUtZrXlgX0r_U/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf3",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf3",
+      "link": "https://docs.google.com/forms/d/1EQ0LdN4yZsQsylYXyWvoPd5B9eifaTw5aCe2ce-m6QA/edit",
+      "count": 10,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react3",
+      "s_link": "http://www.bisa.ai/s/workshop_react3",
+      "link": "https://docs.google.com/forms/u/3/d/1D9yeblE3FQTbrMHq0PjKEKnkEiHiGkD-7q1kmb4KyVw/edit",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dpp5",
+      "s_link": "http://www.bisa.ai/s/workshop_dpp5",
+      "link": "https://docs.google.com/forms/d/1zrCSjgUIrjxkbdSf3hmHc6BpQC_ZIDAqdvtyxA9WG-E/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_cs5",
+      "s_link": "http://www.bisa.ai/s/workshop_cs5",
+      "link": "https://docs.google.com/forms/d/1EF0JXauS5DX5veZan82_pMobHV857PfOvUPxM8q8wtU/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dvp4",
+      "s_link": "http://www.bisa.ai/s/workshop_dvp4",
+      "link": "https://docs.google.com/forms/d/1b7mnSysaEJivP9Xoe4j44HZxeI_hFEW2aXXTuHgenis/edit",
+      "count": 7,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pycsds4",
+      "s_link": "http://www.bisa.ai/s/workshop_pycsds4",
+      "link": "https://docs.google.com/forms/d/1rLFWYfxnkw8rmbNbpQKazYrCWZ4FxzZYrPE8iC8-gcs/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dse9",
+      "s_link": "http://www.bisa.ai/s/workshop_dse9",
+      "link": "https://docs.google.com/forms/d/1VfqY5zQRD9xNpPTMuQLgySfA1YHqiJf1shgof7gFI0s/edit",
+      "count": 7,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf4",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf4",
+      "link": "https://docs.google.com/forms/d/1j3B5TJYv0w3j88WD9SsXIQR8SBXLMU1EWJXWb9UQmqU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_react4",
+      "s_link": "http://www.bisa.ai/s/workshop_react4",
+      "link": "https://docs.google.com/forms/d/12q_BvX7qDssPsna8VTfFVyuu-zGPqAfEoIMFogu5P9o/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dpp6",
+      "s_link": "http://www.bisa.ai/s/workshop_dpp6",
+      "link": "https://docs.google.com/forms/d/1SEW4gSdGlDv5eTcbLIE8zFuuLMKrfB5Hi3IHilSxfzA/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_cs6",
+      "s_link": "http://www.bisa.ai/s/workshop_cs6",
+      "link": "https://docs.google.com/forms/d/1DUnKiFhuRVFhaOiQfLLjgTAtPUHSgu3IUrUHAD4vytU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dvp5",
+      "s_link": "http://www.bisa.ai/s/workshop_dvp5",
+      "link": "https://docs.google.com/forms/d/1ustFXe33xi4EshZVAFQAzA_IvOc1yUcb9yiphmi37RQ/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "ConfirmDealWorkshop",
+      "s_link": "http://www.bisa.ai/s/ConfirmDealWorkshop",
+      "link": "https://wa.link/pcba2g",
+      "count": 13,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "oprek_cad-cam",
+      "s_link": "http://www.bisa.ai/s/oprek_cad-cam",
+      "link": "https://docs.google.com/forms/d/1DW9U20Kv9Op2xjk4KlwZZkVY4MnLQ_sW95yRnGESbsU/prefill",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "oprek_cad-cam_polman",
+      "s_link": "http://www.bisa.ai/s/oprek_cad-cam_polman",
+      "link": "https://docs.google.com/forms/d/1DW9U20Kv9Op2xjk4KlwZZkVY4MnLQ_sW95yRnGESbsU/edit?usp=drivesdk",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "stmik_ikmi",
+      "s_link": "http://www.bisa.ai/s/stmik_ikmi",
+      "link": "https://docs.google.com/forms/u/2/d/1RKLrcObQiJLwYD7ZTY7YFM3OZUCY6bCkap41Oaliess/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "ordatascience",
+      "s_link": "http://www.bisa.ai/s/ordatascience",
+      "link": "https://docs.google.com/forms/d/14YevVVoIxGJEM2KYk-cpgXGe_eu_gRonIuqIKwQJdVA/edit",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ornlp",
+      "s_link": "http://www.bisa.ai/s/ornlp",
+      "link": "https://docs.google.com/forms/d/1GXYI1wkUSmulmGrPY2X5G7EkJ_XqFz-0OEX4M8FpE2M/edit",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanproject4",
+      "s_link": "http://www.bisa.ai/s/pemilihanproject4",
+      "link": "https://docs.google.com/forms/d/1ySWmuu17UtXa7dIznisHUuHvm0CCjxqrVIaLqjQ2JYE/edit",
+      "count": 7,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "video_konstruksi_mekanik-rizky-1dec",
+      "s_link": "http://www.bisa.ai/s/video_konstruksi_mekanik-rizky-1dec",
+      "link": "https://drive.google.com/file/d/1lotCIzMtyJwMGRm2NEXIl4pNOopDb6aF/view?usp=drivesdk",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "daftar",
+      "s_link": "http://www.bisa.ai/s/daftar",
+      "link": "https://forms.gle/dL82DQyBM1DUfV3PA",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "katalogworkshop",
+      "s_link": "http://www.bisa.ai/s/katalogworkshop",
+      "link": "https://drive.google.com/drive/folders/1UlEMjhnTPBg1ZCI2EW4VpiY2wnbGrfT_?usp=sharing",
+      "count": 27,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "oprec_balad-rayesh",
+      "s_link": "http://www.bisa.ai/s/oprec_balad-rayesh",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScSoCB-vl3nUqB0jnOADqMpwJTBB0iKoAv2uZbYp1mgK9Tq6Q/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "mcojt_august",
+      "s_link": "http://www.bisa.ai/s/mcojt_august",
+      "link": "https://docs.google.com/forms/d/1jETK6PHQ4CUNHIoK8cbbhMoXUqUdIpfnVeafddyaPNM/edit",
+      "count": 372,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_tiknowing",
+      "s_link": "http://tampil.id/s/webinar_tiknowing",
+      "link": "https://tampil.id/event/detail/VFZSTk1FMW5QVDA9",
+      "count": 53,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "poltekmeta02",
+      "s_link": "http://tampil.id/s/poltekmeta02",
+      "link": "https://tampil.id/event/detail/VFZSTk1FMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "callforjrds",
+      "s_link": "http://www.bisa.ai/s/callforjrds",
+      "link": "https://docs.google.com/forms/d/1HwkxgrDS3LoMseOHALXKhJvJIrI6-DiyzKvZ5DXjSxU/edit",
+      "count": 10,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_juli",
+      "s_link": "http://www.bisa.ai/s/pengumpulan_tugas_juli",
+      "link": "https://docs.google.com/forms/d/10vhtBsO2-4C7Sg8_DnEeO-WD1Xz1VfZX_1RPBbH7uIg/edit",
+      "count": 72,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse10",
+      "s_link": "http://www.bisa.ai/s/workshop_dse10",
+      "link": "https://docs.google.com/forms/d/19mHk9f8AvHG29sZfuMux4pFyRe6WlSKn3OCcH4SOnyc/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse11",
+      "s_link": "http://www.bisa.ai/s/workshop_dse11",
+      "link": "https://docs.google.com/forms/d/1n2s6Dzh30tfnGDGd2PobnaCFzQ7ndZ5k1j9bYyltuFg/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse12",
+      "s_link": "http://www.bisa.ai/s/workshop_dse12",
+      "link": "https://docs.google.com/forms/d/1AKOvjdGQwcjN2Q3Js71dVB6aodO6DvoRahakYHY4Ay0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dse13",
+      "s_link": "http://www.bisa.ai/s/workshop_dse13",
+      "link": "https://docs.google.com/forms/d/1czqGmj-4tjiL-W46PBXVEVJNwuSfNsif4euI5S24Wk4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dsf5",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf5",
+      "link": "https://docs.google.com/forms/d/1PUqxfVeLdSbGGFdbJx6RJP0nu2Xs_HH5FEtHUU1yIV8/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf6",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf6",
+      "link": "https://docs.google.com/forms/d/1VsgnW-d-eU9FrItJxs1uSdjkyZzJDUYM5f9KJirHZ_Q/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf7",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf7",
+      "link": "https://docs.google.com/forms/d/1kbU5f3V2rLLCKDCgaAqU4GBxtsZa_vxmCpR9RhFqtP4/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs7",
+      "s_link": "http://www.bisa.ai/s/workshop_cs7",
+      "link": "https://docs.google.com/forms/d/1Q_1Hjzhx-q7CulclwyanRX0_K_rIeM1V6keyLPvIUdc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_cs8",
+      "s_link": "http://www.bisa.ai/s/workshop_cs8",
+      "link": "https://docs.google.com/forms/d/1SaYNoAQvZHpXIc6w4-IM9Skhhvn33FfhuHNTiTEvr5U/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs9",
+      "s_link": "http://www.bisa.ai/s/workshop_cs9",
+      "link": "https://docs.google.com/forms/d/1_IwaXIlt04_S5GO6kZhoE6lYGLNyJi63Udw1tC1M7Lg/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs10",
+      "s_link": "http://www.bisa.ai/s/workshop_cs10",
+      "link": "https://docs.google.com/forms/d/1gQVGd71SMHP2mkQYchkQmbQ0on3oHKPDVTy8YH0Tc10/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs10",
+      "s_link": "http://www.bisa.ai/s/workshop_cs10",
+      "link": "https://docs.google.com/forms/d/1gQVGd71SMHP2mkQYchkQmbQ0on3oHKPDVTy8YH0Tc10/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_dwp1",
+      "s_link": "http://www.bisa.ai/s/workshop_dwp1",
+      "link": "https://docs.google.com/forms/d/1KuPMZ5bbXoUmO9PbpIEowUrrPvQzjFGvpopJbU_w1tI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dwp2",
+      "s_link": "http://www.bisa.ai/s/workshop_dwp2",
+      "link": "https://docs.google.com/forms/d/1okpxVfYtZ0n8pSbxH308xA0GTfgDRFO_ILWB3-HLlxE/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dwp3",
+      "s_link": "http://www.bisa.ai/s/workshop_dwp3",
+      "link": "https://docs.google.com/forms/d/1pO9JLCx0GBxMwNf_3aOtTD4EKTu_cXmJeXBVOArHCNY/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_dwp4",
+      "s_link": "http://www.bisa.ai/s/workshop_dwp4",
+      "link": "https://docs.google.com/forms/d/19IbL52eQw10vp3Edyy-oHDvsujpZzc1JSnM3k8W-3i4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "panduantampil",
+      "s_link": "http://www.bisa.ai/s/panduantampil",
+      "link": "https://drive.google.com/drive/folders/1E2B58OX2sEfCS36KkdnIxsGV8VFow9Xy?usp=sharing",
+      "count": 186,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse14",
+      "s_link": "http://www.bisa.ai/s/workshop_dse14",
+      "link": "https://docs.google.com/forms/d/1wu_dAiPrNZwoTJ3oix3qGNs25eSfcGec-a34jVC2uPU/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "proposalstudentambassador",
+      "s_link": "http://www.bisa.ai/s/proposalstudentambassador",
+      "link": "https://drive.google.com/drive/folders/1XOdrmteUMZrD4fw2KRs_ck2hRdtmecVG?usp=sharing",
+      "count": 449,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador3",
+      "s_link": "http://www.bisa.ai/s/StudentAmbassador3",
+      "link": "https://forms.gle/s3s4cxpXsQoZ63bW8",
+      "count": 69,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bootcampdsr",
+      "s_link": "http://www.bisa.ai/s/bootcampdsr",
+      "link": "https://docs.google.com/forms/u/3/d/e/1FAIpQLSdIMuOoowaDdxc-T8920uS3hedibtEpBGo3ZuJaJNXgcX9pxA/viewform?usp=sf_link",
+      "count": 17,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bootcampdsmatlab",
+      "s_link": "http://www.bisa.ai/s/bootcampdsmatlab",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc6amMELy6BkI_bVCAS-gbU_WNvodF8bs0f34iwL4x07hBdJw/viewform?usp=sf_link",
+      "count": 23,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "holidaycourse",
+      "s_link": "http://www.bisa.ai/s/holidaycourse",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfCeYaTumibt9gj0YXAZVbF7DginJPf3Dt5aBJ25F9cqzZqCQ/viewform?usp=sf_link",
+      "count": 27,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "tugasakhirscml",
+      "s_link": "http://www.bisa.ai/s/tugasakhirscml",
+      "link": "https://drive.google.com/drive/folders/1FtUbKfrG674JM6COXSw0wfG4GhosH34p?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "iaiexhuawei1",
+      "s_link": "http://www.bisa.ai/s/iaiexhuawei1",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfZhVo1vBLlY_UIm9XwphBx0LJzj0S1AXled3Ohh0KGXq9GCw/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_pm1",
+      "s_link": "http://www.bisa.ai/s/workshop_pm1",
+      "link": "https://docs.google.com/forms/d/1zIBGlDrA5RhIfi2X_URiBjTisv-06y-39tAW_wCGmHg/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_pm2",
+      "s_link": "http://www.bisa.ai/s/workshop_pm2",
+      "link": "https://docs.google.com/forms/d/1ssSL0u2I3EOeSm3FimXs4M_5209cv44Dx7A2dWevScE/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pm3",
+      "s_link": "http://www.bisa.ai/s/workshop_pm3",
+      "link": "https://docs.google.com/forms/d/1ulo3QTbklTNjtEsJDJ88lvwzQFKxKXAW0Yui_ZpEZv4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "workshop_pr2",
+      "s_link": "http://www.bisa.ai/s/workshop_pr2",
+      "link": "https://docs.google.com/forms/d/1pw22sUIGSpNvhlnarhT0T7sHJsLGjj6iR4Tv0d7aF-U/edit",
+      "count": 9,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pr3",
+      "s_link": "http://www.bisa.ai/s/workshop_pr3",
+      "link": "https://docs.google.com/forms/d/1RJmWc5Wo3jYYqirDnSheWOOUjZPcXjzY1Saa3VFfIrQ/edit",
+      "count": 2,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pr4",
+      "s_link": "http://www.bisa.ai/s/pr4",
+      "link": "https://docs.google.com/forms/d/1VtZXSFNTSPmSLQI-RiTynRJOP9qCAxmgbRFSWKlgxO0/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "tiktok",
+      "s_link": "http://www.bisa.ai/s/tiktok",
+      "link": "https://vt.tiktok.com/ZSJgHyDww/",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "persiapan_riset-intensive",
+      "s_link": "http://www.bisa.ai/s/persiapan_riset-intensive",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfrDLiwdThHCKtx_STfGxIDI0VqkSKZRATMYN-fanzSG2Hoqw/viewform",
+      "count": 30,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "video_rizky-tpgm2020",
+      "s_link": "http://www.bisa.ai/s/video_rizky-tpgm2020",
+      "link": "https://drive.google.com/file/d/15mfqqo6QNWvmik_2ohJYMU__ZuNFP-_k/view?usp=drivesdk",
+      "count": 1,
+      "ips": [
+         "103.41.206.83"
+      ]
+   },
+   {
+      "name": "donasibisaai",
+      "s_link": "http://www.bisa.ai/s/donasibisaai",
+      "link": "https://payment.bisa.ai/paymentsubscription/index.php/payment/index/academy",
+      "count": 3,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "video_tutorial-techno",
+      "s_link": "http://tampil.id/s/video_tutorial-techno",
+      "link": "https://drive.google.com/folderview?id=16K6pqm7q_OMbc2eK-0Mg32TyHsLpCa4w",
+      "count": 21,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_sql3",
+      "s_link": "http://www.bisa.ai/s/workshop_sql3",
+      "link": "https://docs.google.com/forms/d/1jrAjKpoWMQMyU59z08QWHrwtdpfy7HDBJzXg3YuFWMc/edit",
+      "count": 4,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pr4",
+      "s_link": "http://www.bisa.ai/s/workshop_pr4",
+      "link": "https://docs.google.com/forms/d/1VtZXSFNTSPmSLQI-RiTynRJOP9qCAxmgbRFSWKlgxO0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react6",
+      "s_link": "http://www.bisa.ai/s/workshop_react6",
+      "link": "https://docs.google.com/forms/d/1j6QumH4ULfxHSqgiLVpvV1RlK_H-bHLNLVanS5jcrGw/edit",
+      "count": 5,
+      "ips": [
+         "103.41.206.83",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252",
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react7",
+      "s_link": "http://www.bisa.ai/s/workshop_react7",
+      "link": "https://docs.google.com/forms/d/1utNcY-oK2tnpSGFknI9Gcsg-37IesznLLpHYtc4jPWI/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_sql4",
+      "s_link": "http://www.bisa.ai/s/workshop_sql4",
+      "link": "https://docs.google.com/forms/d/1cPrgk1yURyR1Nb3KcqGaRnUvvTvdJBYSTpP-5To2B4g/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "datasetspeechclassification",
+      "s_link": "http://www.bisa.ai/s/datasetspeechclassification",
+      "link": "https://drive.google.com/drive/folders/1ti2RTxjtBW45FN444FoBzFETPdbJgIHf?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_riset-ilkom",
+      "s_link": "http://www.bisa.ai/s/intensive_riset-ilkom",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScVLeFRCfBJt7qbE_aM4h66fH6LbSOWAsBXd2TpRvDKO9fe9g/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_data-science",
+      "s_link": "http://www.bisa.ai/s/intensive_data-science",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScVLeFRCfBJt7qbE_aM4h66fH6LbSOWAsBXd2TpRvDKO9fe9g/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_data-science-matlab",
+      "s_link": "http://www.bisa.ai/s/intensive_data-science-matlab",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScztjm7rS0CYrNlGGIOLCd1YdhOvWAtmnX3IxZBpIA-LDDBlA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_digital-startup",
+      "s_link": "http://www.bisa.ai/s/intensive_digital-startup",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScewkyxBDydzMy01_bcjHfkSOowMLrQAELA08OX0IcPrmnWdA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_spark-ar",
+      "s_link": "http://www.bisa.ai/s/intensive_spark-ar",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdKsOzsS9IniEhHHuTiwDMYXPNJr_XhfcwMzytDp8GK8GzhMg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_iot",
+      "s_link": "http://www.bisa.ai/s/intensive_iot",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeTqetfBDDuY0VnHxGEXsPLwzNKCBcavBXakkdTwG8hplUbXw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "reproduce_b1",
+      "s_link": "http://www.bisa.ai/s/reproduce_b1",
+      "link": "https://bisa.ai/course/detail/MzQy/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanproject5",
+      "s_link": "http://www.bisa.ai/s/pemilihanproject5",
+      "link": "https://docs.google.com/forms/d/1m46gbZ6z_-8vAdvYqjtdd9oVq8GuANMCJ6FRWeB3Qgw/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "studentcourse",
+      "s_link": "http://www.bisa.ai/s/studentcourse",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScuPAGqj6gHon3BjOfoSOXddBBUQRaXpq_uIyUY4rYllydQpA/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_september",
+      "s_link": "http://www.bisa.ai/s/mcojt_september",
+      "link": "https://docs.google.com/forms/d/14mFRsEFINiFq1Kg3fIT8I2B9wcrt749ggXk79VeXhO8/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "formmengisiwebinar",
+      "s_link": "http://bisa.ai/s/formmengisiwebinar",
+      "link": "https://docs.google.com/forms/d/1guiACDX6iIo6SGt-aRqM4p-US3XtC0uFK0xH9AboRfU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dm1",
+      "s_link": "http://www.bisa.ai/s/workshop_dm1",
+      "link": "https://bisa.ai/course/detail/MzU2/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_cs11",
+      "s_link": "http://www.bisa.ai/s/workshop_cs11",
+      "link": "https://bisa.ai/course/detail/MzU0/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_iotp1",
+      "s_link": "http://www.bisa.ai/s/workshop_iotp1",
+      "link": "https://bisa.ai/course/detail/MzUz/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf8",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf8",
+      "link": "https://bisa.ai/course/detail/MzUx/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dse15",
+      "s_link": "http://www.bisa.ai/s/workshop_dse15",
+      "link": "https://bisa.ai/course/detail/MzUw/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_sql5",
+      "s_link": "http://www.bisa.ai/s/workshop_sql5",
+      "link": "https://bisa.ai/course/detail/MzU1/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "aicreation_webinar",
+      "s_link": "http://www.bisa.ai/s/aicreation_webinar",
+      "link": "https://tampil.id/event/detail/VFZSUk1FNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_agustus",
+      "s_link": "http://www.bisa.ai/s/pengumpulan_tugas_agustus",
+      "link": "https://docs.google.com/forms/d/1HIxzrMc6HSV4L0ZukyAyIInIIccZtuGcv-381jriG4o/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "liveojt_agustus1",
+      "s_link": "http://www.bisa.ai/s/liveojt_agustus1",
+      "link": "https://drive.google.com/drive/folders/1MPaW_fpwODpR1fObl0XS4y3A5221l-Q0?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtagustus1",
+      "s_link": "http://www.bisa.ai/s/recording_ojtagustus1",
+      "link": "https://docs.google.com/spreadsheets/d/11PkJ7W-BtGXkczpFy0E9H79Ac4UsgliemHcXjqZKAac/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtagustus2",
+      "s_link": "http://www.bisa.ai/s/recording_ojtagustus2",
+      "link": "https://docs.google.com/spreadsheets/d/1OHq_t6gFq-o4en3CcAs_G8iPVkaSa0zSV-D6dVMS4Y4/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "payment_bayarind",
+      "s_link": "http://bisa.ai/s/payment_bayarind",
+      "link": "https://payment.bisa.ai/paymentsubscription/index.php/payment/index/academy",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "payment_academy",
+      "s_link": "http://bisa.ai/s/payment_academy",
+      "link": "https://payment.bisa.ai/paymentsubscription/index.php/payment/index/academy",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_dsf9",
+      "s_link": "http://www.bisa.ai/s/workshop_dsf9",
+      "link": "https://bisa.ai/course/detail/MzUx/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_iotp2",
+      "s_link": "http://www.bisa.ai/s/workshop_iotp2",
+      "link": "https://bisa.ai/course/detail/MzUz/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulanppt",
+      "s_link": "http://www.bisa.ai/s/pengumpulanppt",
+      "link": "https://docs.google.com/forms/d/1nDMHy0pEGUYQo5jNVal7mizanAiZopIVToHUDUzSkoI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react10",
+      "s_link": "http://www.bisa.ai/s/workshop_react10",
+      "link": "https://bisa.ai/course/detail/MzU4/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react10",
+      "s_link": "http://www.bisa.ai/s/workshop_react10",
+      "link": "https://bisa.ai/course/detail/MzU4/3",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_data-science-python",
+      "s_link": "http://bisa.ai/s/webinar_data-science-python",
+      "link": "https://tampil.id/event/detail/VFZSUk0wNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_cloud",
+      "s_link": "http://bisa.ai/s/webinar_cloud",
+      "link": "https://tampil.id/event/detail/VFZSUk0wNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_hacking",
+      "s_link": "http://bisa.ai/s/webinar_hacking",
+      "link": "https://tampil.id/event/detail/VFZSUk0wNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador4",
+      "s_link": "http://www.bisa.ai/s/StudentAmbassador4",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScLVVLkOsDqfB8fVxGzj5V-mtw-CwMcGmDaXZiq24eMTLMuRQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_iot",
+      "s_link": "http://tampil.id/s/workshop_iot",
+      "link": "https://www.tampil.id/event/detail/VFZSUk5VNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_react",
+      "s_link": "http://tampil.id/s/workshop_react",
+      "link": "https://tampil.id/event/detail/VFZSUk5VNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_reactJS",
+      "s_link": "http://tampil.id/s/workshop_reactJS",
+      "link": "https://tampil.id/event/detail/VFZSUk5VNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanproject6",
+      "s_link": "http://www.bisa.ai/s/pemilihanproject6",
+      "link": "https://docs.google.com/forms/d/1FO-UQ7DpGy0Qe7m2_xVBjzatTjcHue3XIH139uxodfc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_jurnal",
+      "s_link": "http://tampil.id/s/workshop_jurnal",
+      "link": "https://tampil.id/event/detail/VFZSUk5VOUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_data-mining",
+      "s_link": "http://tampil.id/s/workshop_data-mining",
+      "link": "https://tampil.id/event/detail/VFZSUk5VNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "http://www.bisa.ai/s/s3asiae_university",
+      "s_link": "http://www.bisa.ai/s/http://www.bisa.ai/s/s3asiae_university",
+      "link": "https://forms.gle/uWY1vsUUcjzBx6pM6",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "http://www.bisa.ai/s/s3asiae_university",
+      "s_link": "http://www.bisa.ai/s/http://www.bisa.ai/s/s3asiae_university",
+      "link": "https://forms.gle/uWY1vsUUcjzBx6pM6",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "s3asiae_university",
+      "s_link": "http://www.bisa.ai/s/s3asiae_university",
+      "link": "https://forms.gle/uWY1vsUUcjzBx6pM6",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_DL",
+      "s_link": "http://tampil.id/s/intensive_DL",
+      "link": "https://tampil.id/event/detail/VFZSVmQwNW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_DL",
+      "s_link": "http://tampil.id/s/workshop_DL",
+      "link": "https://tampil.id/event/detail/VFZSVmQwNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_FS",
+      "s_link": "http://tampil.id/s/workshop_FS",
+      "link": "https://tampil.id/event/detail/VFZSVmQwNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_TM",
+      "s_link": "http://tampil.id/s/workshop_TM",
+      "link": "https://tampil.id/event/detail/VFZSVmQwOUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pendidikanprofesional_datascience",
+      "s_link": "http://www.bisa.ai/s/pendidikanprofesional_datascience",
+      "link": "https://bisa.ai/degree/detail_university/9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "masterclass_react",
+      "s_link": "http://bisa.ai/s/masterclass_react",
+      "link": "https://bisa.ai/course/detail/MzU4/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_oktober",
+      "s_link": "http://www.bisa.ai/s/mcojt_oktober",
+      "link": "https://docs.google.com/forms/d/1bejudGRTv3xg63LoYJXOAUlsmHudm2z20h7E81D43DU/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "hackathon",
+      "s_link": "http://www.bisa.ai/s/hackathon",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScqhN2-uvAd9GINcT0nDawrU4R4bRrxaP8pSyHF5Z5_kvSxrA/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "https://bisa.ai/s/ds_batch1",
+      "s_link": "http://www.bisa.ai/s/https://bisa.ai/s/ds_batch1",
+      "link": "https://bisa.ai/degree/detail_university/9#showData",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "",
+      "s_link": "http://www.bisa.ai/s/",
+      "link": "",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "https://bisa.ai/s/ds_batch1",
+      "s_link": "http://www.bisa.ai/s/https://bisa.ai/s/ds_batch1",
+      "link": "https://bisa.ai/degree/detail_university/9#showData",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "ds_batch1",
+      "s_link": "http://www.bisa.ai/s/ds_batch1",
+      "link": "https://bisa.ai/degree/detail_university/9#showData",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rekrutmen",
+      "s_link": "http://bisa.ai/s/rekrutmen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdX0aU2ydcHtd707px3fHgJBby-hMhdr336GXFpDg4M9EE35A/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pendaftarans3aeu",
+      "s_link": "http://www.bisa.ai/s/pendaftarans3aeu",
+      "link": "https://bisa.ai/degree/detail/10#showData",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ds_pendidikanprofesional",
+      "s_link": "http://www.bisa.ai/s/ds_pendidikanprofesional",
+      "link": "https://docs.google.com/forms/d/17xUVLpBDYEe3TB0_087A2dWTRXm22UwapdgrJgBQrn4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador5",
+      "s_link": "http://www.bisa.ai/s/StudentAmbassador5",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfEFg8UzkQfSsGFqzDYc55r-5MpuBQWun6Y26QxzxQ3i3pq6Q/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "WorkshopGuruBISAI",
+      "s_link": "http://www.bisa.ai/s/WorkshopGuruBISAI",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdChmJ62F4yGeMf3ubox6fryN8bzFbhda-wimIZmUZjZi5adg/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_python",
+      "s_link": "http://tampil.id/s/workshop_python",
+      "link": "https://tampil.id/event/detail/VFZSVmVrNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ds_profesional",
+      "s_link": "http://www.bisa.ai/s/ds_profesional",
+      "link": "https://docs.google.com/forms/d/17xUVLpBDYEe3TB0_087A2dWTRXm22UwapdgrJgBQrn4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ds_prof",
+      "s_link": "http://www.bisa.ai/s/ds_prof",
+      "link": "https://docs.google.com/forms/d/17xUVLpBDYEe3TB0_087A2dWTRXm22UwapdgrJgBQrn4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "cs_prof",
+      "s_link": "http://www.bisa.ai/s/cs_prof",
+      "link": "https://docs.google.com/forms/d/1cXUCoq5ooYLJWpnMXW-AIBFCqcZs_k0gnWqqZW7Vky4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "LombaVirtualBISAAI",
+      "s_link": "http://www.bisa.ai/s/LombaVirtualBISAAI",
+      "link": "https://forms.gle/3AT99akBSEBtTYf8A",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "AcademyVirtualBISAAI",
+      "s_link": "http://www.bisa.ai/s/AcademyVirtualBISAAI",
+      "link": "https://forms.gle/kRQKVQR5KENbSrQV6",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "intensive_datascience",
+      "s_link": "http://bisa.ai/s/intensive_datascience",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScztjm7rS0CYrNlGGIOLCd1YdhOvWAtmnX3IxZBpIA-LDDBlA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "masterclass_ai-iot",
+      "s_link": "http://bisa.ai/s/masterclass_ai-iot",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSOaWe6KRLOrP67pRgKASfPAdIBUhmpEPR-JGcmggVfWoqog/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_september",
+      "s_link": "http://www.bisa.ai/s/pengumpulan_tugas_september",
+      "link": "https://docs.google.com/forms/d/1ZnjTjRoPxSZrFYzC7whGhbn_yo8X9sxYW5lVFPMTWrQ/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "certificate_prof",
+      "s_link": "http://www.bisa.ai/s/certificate_prof",
+      "link": "https://bisa.ai/certification",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "fs_prof",
+      "s_link": "http://www.bisa.ai/s/fs_prof",
+      "link": "https://docs.google.com/forms/d/1d1SVaEGgMOersco8HH0cuj9P8VbWGVyapSVSsc6mDF8/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtseptember1",
+      "s_link": "http://www.bisa.ai/s/recording_ojtseptember1",
+      "link": "https://docs.google.com/spreadsheets/d/1lrZGbHKLX1vsMn9wWyazqA1xz_pS66WZw0ZwrQ4FBvI/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtseptember2",
+      "s_link": "http://www.bisa.ai/s/recording_ojtseptember2",
+      "link": "https://docs.google.com/spreadsheets/d/1zHDWDZfG3c0xvAxai6E1khXGOALUat5odFNVS46OXuU/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtseptember3",
+      "s_link": "http://www.bisa.ai/s/recording_ojtseptember3",
+      "link": "https://docs.google.com/spreadsheets/d/1hfidHls4AFceniU02Y3By9jbzzXcK2CjXA2G7G7fgKQ/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_ojtseptember4",
+      "s_link": "http://www.bisa.ai/s/recording_ojtseptember4",
+      "link": "https://docs.google.com/spreadsheets/d/1t1QYWUeEcbfURzdhxZfRTriQppNEVxeHawXS16_siS8/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_cyber-security",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_cyber-security",
+      "link": "https://www.udemy.com/course/backend-cyber-security-bisaai/?couponCode=BISAAIACADEMY",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "download_bisa-ai-academy",
+      "s_link": "http://bisa.ai/s/download_bisa-ai-academy",
+      "link": "https://play.google.com/store/apps/details?id=com.pos.bisaaiacademy",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pentest",
+      "s_link": "http://tampil.id/s/workshop_pentest",
+      "link": "https://tampil.id/event/detail/VFZSVk1rNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "prof",
+      "s_link": "http://www.bisa.ai/s/prof",
+      "link": "https://bisa.ai/degree/campuss",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ppt_mp",
+      "s_link": "http://www.bisa.ai/s/ppt_mp",
+      "link": "https://docs.google.com/forms/d/19H2Csss0iUIsc_t10xSL61EJ81iq5Nx4998chSy9j_w/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "form_webinar",
+      "s_link": "http://www.bisa.ai/s/form_webinar",
+      "link": "https://docs.google.com/forms/d/1oHTLn3vh6DawpgT-JgqPndPRqy7L__TKG6wGmKk8aAk/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "modul_mp",
+      "s_link": "http://www.bisa.ai/s/modul_mp",
+      "link": "https://docs.google.com/forms/d/14ZML0JuZ77EiTLEipziXI0p9o6Teqs7j2k7gzbS4Qag/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rekomendasi",
+      "s_link": "http://bisa.ai/s/rekomendasi",
+      "link": "https://www.youtube.com/watch?v=ucBpsy8z7GE&t=11s",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "music",
+      "s_link": "http://bisa.ai/s/music",
+      "link": "https://www.youtube.com/watch?v=Mp7x92K8ezE&t=31s",
+      "count": 6,
+      "ips": [
+         "103.41.206.252",
+         "103.30.180.144",
+         "103.41.206.252",
+         "114.10.8.163",
+         "114.10.8.163",
+         "114.10.8.163"
+      ]
+   },
+   {
+      "name": "nlp",
+      "s_link": "http://bisa.ai/s/nlp",
+      "link": "https://www.youtube.com/watch?v=3lYRxuUDblg",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "short",
+      "s_link": "http://bisa.ai/s/short",
+      "link": "https://bisa.ai/s/YXNsa2pkZ2doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRsa2Fqc2hkbGthanNoZAo",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_premium-bisaai",
+      "s_link": "http://bisa.ai/s/magang_premium-bisaai",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd4qrmyIiJ1RpA-DwXryYe0JuZaXrqiNt6OijDGxoxXvtaquw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "inovasi-11",
+      "s_link": "http://bisa.ai/s/inovasi-11",
+      "link": "https://chat.whatsapp.com/KP82QlP7fiE6GSrGXTH3nY",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "grup-magang_dosen",
+      "s_link": "http://bisa.ai/s/grup-magang_dosen",
+      "link": "https://chat.whatsapp.com/GBE3793MYXhBATnjMrArqp",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "grup-magang_mahasiswa",
+      "s_link": "http://bisa.ai/s/grup-magang_mahasiswa",
+      "link": "https://chat.whatsapp.com/EzshVgWNSVzL6i26bDZHSS",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "PengajarPendidikan",
+      "s_link": "http://www.bisa.ai/s/PengajarPendidikan",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeXijRaaVRZPIoMgOVpJ_je2qo41n4QNFNGmgTPzZ8pRej75A/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanprojectITTP",
+      "s_link": "http://www.bisa.ai/s/pemilihanprojectITTP",
+      "link": "https://docs.google.com/forms/d/18Jn7w5sog9yCgdKTRaXpSJngBqYbOb9Um6tXviNEpPI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanprojectBISAAI",
+      "s_link": "http://www.bisa.ai/s/pemilihanprojectBISAAI",
+      "link": "https://docs.google.com/forms/d/18Jn7w5sog9yCgdKTRaXpSJngBqYbOb9Um6tXviNEpPI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "belajar_deep-learning",
+      "s_link": "http://tampil.id/s/belajar_deep-learning",
+      "link": "https://tampil.id/event/detail/VFZSVk0wMVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "daftars1aeu_ai",
+      "s_link": "http://www.bisa.ai/s/daftars1aeu_ai",
+      "link": "https://bisa.ai/degree/detail/7#showData",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "daftars1aeu_cs",
+      "s_link": "http://www.bisa.ai/s/daftars1aeu_cs",
+      "link": "https://bisa.ai/degree/detail/8#showData",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pendaftarans2aeu",
+      "s_link": "http://www.bisa.ai/s/pendaftarans2aeu",
+      "link": "https://bisa.ai/degree/detail/13#showData",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "tampil.id/s/webinar_mldl",
+      "s_link": "http://tampil.id/s/tampil.id/s/webinar_mldl",
+      "link": "https://tampil.id/event/detail/VFZSVk0wNTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_mldl",
+      "s_link": "http://tampil.id/s/webinar_mldl",
+      "link": "https://tampil.id/event/detail/VFZSVk0wNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_eda",
+      "s_link": "http://tampil.id/s/webinar_eda",
+      "link": "https://tampil.id/event/detail/VFZSVk0wOUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pyhton",
+      "s_link": "http://www.bisa.ai/s/pyhton",
+      "link": "https://bisa.ai/course/detail/MjQ5/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "dasar-php",
+      "s_link": "http://tampil.id/s/dasar-php",
+      "link": "https://tampil.id/event/detail/VFZSVk5VNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "data_absensi-peserta",
+      "s_link": "http://bisa.ai/s/data_absensi-peserta",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc4OFVUqwRbP7IvxKrKXuf_9QQCqH_SIro6nM5qHm7-IBqZSw/viewform?pli=1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "skprogrammer_oct",
+      "s_link": "http://www.bisa.ai/s/skprogrammer_oct",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScBd5C0TMoIvXC7lkTHjzmEMqGXMVKgCcxkiFCTgz_gYbD7KQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_november",
+      "s_link": "http://www.bisa.ai/s/mcojt_november",
+      "link": "https://docs.google.com/forms/d/1KxyAtb-CoikIZU1jhkMuE3JKP1RAlqxogS1DU-nAQVY/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_pythonforeconomist",
+      "s_link": "http://www.bisa.ai/s/workshop_pythonforeconomist",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScF1uH2Jbhj16P_-zo3KDV0F_9fBA9yWJi3XIFJ0FWpn1VufQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_python",
+      "s_link": "http://www.bisa.ai/s/workshop_python",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScF1uH2Jbhj16P_-zo3KDV0F_9fBA9yWJi3XIFJ0FWpn1VufQ/viewform",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_re",
+      "s_link": "http://www.bisa.ai/s/workshop_re",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScF1uH2Jbhj16P_-zo3KDV0F_9fBA9yWJi3XIFJ0FWpn1VufQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "skcybersecurity_oct",
+      "s_link": "http://www.bisa.ai/s/skcybersecurity_oct",
+      "link": "https://docs.google.com/forms/d/1m4PNdGP-FH9PDPPgMj4YfzvQbaEc-w77NTP4APme1Gw/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mc_ittp",
+      "s_link": "http://www.bisa.ai/s/mc_ittp",
+      "link": "https://bisa.ai/course/detail/MzQ4/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ikatancinta",
+      "s_link": "http://tampil.id/s/ikatancinta",
+      "link": "https://tampil.id/event/detail/VFZSWmQwMUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihanproject7",
+      "s_link": "http://www.bisa.ai/s/pemilihanproject7",
+      "link": "https://docs.google.com/forms/d/168gg_qN5X_95E522DZ_C3Bc6pPgpvZmTLUw1W3J79Ig/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "tugas_pelatihan1",
+      "s_link": "http://www.bisa.ai/s/tugas_pelatihan1",
+      "link": "https://docs.google.com/forms/d/1KZAt3m_8qm5MmgHRSC162hMLfc_tf_EvCORJrpvpJzk/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "materi_diklataibigdata",
+      "s_link": "http://www.bisa.ai/s/materi_diklataibigdata",
+      "link": "https://drive.google.com/drive/folders/1GzqNv3kd39cEHAp3qTF3-wGPEgouYQPk?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_re",
+      "s_link": "http://tampil.id/s/workshop_re",
+      "link": "https://tampil.id/event/detail/VFZSWmQwNW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "workshop_reindo",
+      "s_link": "http://tampil.id/s/workshop_reindo",
+      "link": "https://tampil.id/event/detail/VFZSWmQwNW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rekrutmen_yayasan",
+      "s_link": "http://bisa.ai/s/rekrutmen_yayasan",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeTo-qN0kC86r0k8TNr9n41bPh_0QU-TZ37kMoPjMS9xA_Xgg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rekrutmen_pt-skb",
+      "s_link": "http://bisa.ai/s/rekrutmen_pt-skb",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfO6aH8bTM_koofVsFHbXx1wH_s6x4qCF9RZBz4earqVVjiAg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcdatascience",
+      "s_link": "http://www.bisa.ai/s/mcdatascience",
+      "link": "https://bisa.ai/course/detail/Mzcz/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_cml",
+      "s_link": "http://tampil.id/s/webinar_cml",
+      "link": "https://tampil.id/event/detail/VFZSVk0wNVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_data-science",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_data-science",
+      "link": "https://www.udemy.com/course/bisaai-datascience/?couponCode=DATASCIENCEBISAAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinar_ml",
+      "s_link": "http://tampil.id/s/webinar_ml",
+      "link": "https://tampil.id/event/detail/VFZSVk0wNUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "webinarkebijakanpublik",
+      "s_link": "http://www.bisa.ai/s/webinarkebijakanpublik",
+      "link": "https://www.tampil.id/event/detail/VFZSWmQwOVJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_oktober",
+      "s_link": "http://www.bisa.ai/s/pengumpulan_tugas_oktober",
+      "link": "https://docs.google.com/forms/d/1dkIEEzM_myuJstrGQyXR9taKOsdraHOrhMiL-Q3IZF4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_data-science-matlab",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_data-science-matlab",
+      "link": "https://www.udemy.com/course/data-science-matlab-bisaai/?couponCode=BISAAIDSMATLAB",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_data-science-r",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_data-science-r",
+      "link": "https://www.udemy.com/course/datascience-r-bisaai/?couponCode=DATASCIENCE_R_BISAAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_cyber-backend",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_cyber-backend",
+      "link": "https://www.udemy.com/course/backend-cyber-security-bisaai/?couponCode=BISAAICYBERBACKEND",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "odoo",
+      "s_link": "http://bisa.ai/s/odoo",
+      "link": "http://103.41.206.251:8069/",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "skdatascience_nov",
+      "s_link": "http://www.bisa.ai/s/skdatascience_nov",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScqxjDdhLOwBXyVcBNNswDTBpAOoVpsCCe7bZtdFfBJ3DII0w/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "skbigdata_nov",
+      "s_link": "http://www.bisa.ai/s/skbigdata_nov",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSe0wc_H-7wtK26nEjY6PkzwF3VWUhNjTdIuNeiJWdRG2HZUIQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "GuidebookLombaVirtualBISAAI",
+      "s_link": "http://www.bisa.ai/s/GuidebookLombaVirtualBISAAI",
+      "link": "https://drive.google.com/file/d/1YBsqO_hbewsv7BKwuWaVQqoQX0bU3kXC/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rekrutmen_pengajar",
+      "s_link": "http://bisa.ai/s/rekrutmen_pengajar",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc-I-l6RZctCPXof-YrHiBeK9pw-dWPDK-tZMf29yjWe98DuA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "cv_sib",
+      "s_link": "http://bisa.ai/s/cv_sib",
+      "link": "https://drive.google.com/drive/folders/1YmToBPYZ3cIbOi46SNTyoxCOrDCa4oF4?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Data Science Orange",
+      "s_link": "http://bisa.ai/s/Data Science Orange",
+      "link": "tampil.id/event",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "datascienceorange",
+      "s_link": "http://tampil.id/s/datascienceorange",
+      "link": "tampil.id/event",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "DS_orange",
+      "s_link": "http://tampil.id/s/DS_orange",
+      "link": "tampil.id/event",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "",
+      "s_link": "http://tampil.id/s/",
+      "link": "http://tampil.id/s/DS_orange",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "CS_Practice",
+      "s_link": "http://tampil.id/s/CS_Practice",
+      "link": "tampil.id/event",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "",
+      "s_link": "http://tampil.id/s/",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "http://tampil.id/s/DS_orange",
+      "s_link": "http://tampil.id/s/http://tampil.id/s/DS_orange",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "http://tampil.id/s/DS_orange",
+      "s_link": "http://tampil.id/s/http://tampil.id/s/DS_orange",
+      "link": "",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "http://tampil.id/s/DS_orange",
+      "s_link": "http://tampil.id/s/http://tampil.id/s/DS_orange",
+      "link": " http://ipinfo.io/[ip]",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "DS_orange",
+      "s_link": "http://tampil.id/s/DS_orange",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "http://tampil.id/s/DS_orange",
+      "s_link": "http://tampil.id/s/http://tampil.id/s/DS_orange",
+      "link": " http://ipinfo.io/[ip]",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "ds_orange",
+      "s_link": "http://tampil.id/s/ds_orange",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_ds-orange",
+      "s_link": "http://tampil.id/s/webinar_ds-orange",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CS_Practice",
+      "s_link": "http://tampil.id/s/CS_Practice",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMTNQVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "webinar_cs-practice",
+      "s_link": "http://tampil.id/s/webinar_cs-practice",
+      "link": "https://tampil.id/event/detail/VFZSWk1FMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ds_insw",
+      "s_link": "http://bisa.ai/s/ds_insw",
+      "link": "https://drive.google.com/folderview?id=1p1rGBTYMWjkklB5IxJT1FgKMJOZ3Mm5z",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "udemy_insw",
+      "s_link": "http://bisa.ai/s/udemy_insw",
+      "link": "https://www.udemy.com/course/bisaai-datascience/?couponCode=DSPYTHONBISAAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "presensisaldobayarind",
+      "s_link": "http://www.bisa.ai/s/presensisaldobayarind",
+      "link": "https://forms.gle/6Vn4xhRy6wYcC5xx9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "SeminarDataJournalism",
+      "s_link": "http://www.bisa.ai/s/SeminarDataJournalism",
+      "link": "https://www.tampil.id/event/detail/VFZSWk1FNTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "udemy-fullstack",
+      "s_link": "http://bisa.ai/s/udemy-fullstack",
+      "link": "https://www.udemy.com/course/fullstack-programming-bisaai/?couponCode=FULLSTACKBISAAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "presensiwebinarlomba",
+      "s_link": "http://www.bisa.ai/s/presensiwebinarlomba",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdRHVZCI-kce681_ZULm5q-FFqmXKwOlKpJvZfXuVBi9zNX-A/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador6",
+      "s_link": "http://www.bisa.ai/s/StudentAmbassador6",
+      "link": "ID: 38193 PM: ttc1z5m5q2hg9w",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "StudentAmbassador6",
+      "s_link": "http://www.bisa.ai/s/StudentAmbassador6",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeCa9x9ptSp54yqQvLGy1YZQL5QBeN6Y_xO5CFpYPiVISBcxQ/viewform?usp=sf_link",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "OprecStudentAmbassador6",
+      "s_link": "http://www.bisa.ai/s/OprecStudentAmbassador6",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeCa9x9ptSp54yqQvLGy1YZQL5QBeN6Y_xO5CFpYPiVISBcxQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "semnashmsixbisaai",
+      "s_link": "http://www.bisa.ai/s/semnashmsixbisaai",
+      "link": "https://www.tampil.id/event/detail/VFZSWk5FMW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "skleadprogrammer_nov",
+      "s_link": "http://bisa.ai/s/skleadprogrammer_nov",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd7m1Ti0D2gjdBB1L1x85tuveQ1RAP6LV7UWJcj4KsfXQISPQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diklat_LNSW",
+      "s_link": "http://bisa.ai/s/diklat_LNSW",
+      "link": "https://drive.google.com/drive/folders/1_ppwwQL7hHzrcGwHdYd6p73dCUkT_YN7?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "modul_diklat",
+      "s_link": "http://bisa.ai/s/modul_diklat",
+      "link": "https://bisa.ai/course/detail/Mzg1/3",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "riset_ilkom",
+      "s_link": "http://bisa.ai/s/riset_ilkom",
+      "link": "https://www.udemy.com/course/riset-persiapan-s2-dan-s3/?couponCode=RISETS2S3BISAAI",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "rekrutmen_bisaai-nov",
+      "s_link": "http://bisa.ai/s/rekrutmen_bisaai-nov",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdQB3-wgJ9Ny3Z4diiKflJSqbaa7kHHHehURWnBrh3DYH2L0g/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Udemy-BisaAI_riset",
+      "s_link": "http://bisa.ai/s/Udemy-BisaAI_riset",
+      "link": "https://www.udemy.com/course/riset-persiapan-s2-dan-s3/?couponCode=RISETBISAAIS2S3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pelatihan_intel_bisa",
+      "s_link": "http://www.bisa.ai/s/pelatihan_intel_bisa",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdblwf0w4GoEXtpRtSFzKpJtNw4xyrxwlUMleR_M4ePgsP7bg/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "trainer_bisa_ai",
+      "s_link": "http://www.bisa.ai/s/trainer_bisa_ai",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdqV2qxhR1i8HD8sFaOxJApyKn4ECJKH6S5HzK1UFyojWID7A/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_desember",
+      "s_link": "http://bisa.ai/s/mcojt_desember",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeH4lLF9g4n1HSn2zewMAibXegP_Lfdg3los1hO0sHq96ekpw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengajar_sib",
+      "s_link": "http://bisa.ai/s/pengajar_sib",
+      "link": "https://drive.google.com/folderview?id=11tjN_VcT91BkP-chzGT_e-HMRSTBwb8D",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_november",
+      "s_link": "http://bisa.ai/s/pengumpulan_tugas_november",
+      "link": "https://docs.google.com/forms/d/13ITfYzyN_vkcQnplen3zlwP7YAnmFWdlTqbGmJLUsGE/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_project8",
+      "s_link": "http://bisa.ai/s/recording_project8",
+      "link": "https://docs.google.com/spreadsheets/d/1eNEEA19_TwFyO2ELwiHllC5tv8GBRjiNg2pGxNGBR9w/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "cv_adryan",
+      "s_link": "http://bisa.ai/s/cv_adryan",
+      "link": "https://drive.google.com/file/d/1JTBVUoTY03fQllXHnNZxrJpFqplKyfIR/view?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "cv_rivaldi",
+      "s_link": "http://bisa.ai/s/cv_rivaldi",
+      "link": "https://drive.google.com/file/d/16Wf5oXTHJiheOMTREA4fLyevkrMMz2YM/view?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "cv_lauresius",
+      "s_link": "http://bisa.ai/s/cv_lauresius",
+      "link": "https://drive.google.com/file/d/15htzAN7WZvA_Mg_PnGciW1HnWGd9haHE/view?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "persiapan-ujian_BNSP",
+      "s_link": "http://bisa.ai/s/persiapan-ujian_BNSP",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd-1J75r6UENA17rw2BZnIJVAX99fTpZvXy0cBQGOMbjNgexQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "perancangan_event",
+      "s_link": "http://www.bisa.ai/s/perancangan_event",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSejisJENzJFQ0JFJYriJGwoQIe7tnwrQJylv0-SUCCKIijoWQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "guidebook_thincai",
+      "s_link": "http://www.bisa.ai/s/guidebook_thincai",
+      "link": "https://drive.google.com/file/d/1JTByTcbL3AeiyXi0avx1McR_aWsAAq_U/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "RegisterTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/RegisterTHINC-AI",
+      "link": "https://forms.gle/sKXUbmSBRKJK37qH7",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "GuidebookTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/GuidebookTHINC-AI",
+      "link": "https://drive.google.com/file/d/1JTByTcbL3AeiyXi0avx1McR_aWsAAq_U/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "WebinarTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/WebinarTHINC-AI",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScG3tzCmPQpC_GiL0rwvWjDY4QWN-KRFHO7EkeZrxDz80MqWA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diklat_data-science",
+      "s_link": "http://bisa.ai/s/diklat_data-science",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScdmJ04lCzNPoKUZi3F2M3tUm6OKhJw_RFSDeCPcsxDqFWOww/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "AI-CreationMentoring",
+      "s_link": "http://www.bisa.ai/s/AI-CreationMentoring",
+      "link": "https://docs.google.com/spreadsheets/d/1iQjtPSC_mdMJKYxz7Z7gfcaGf-LOzTsqBFzZpX-aoK4/edit#gid=274716550",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "InterviewAT",
+      "s_link": "http://www.bisa.ai/s/InterviewAT",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdrdf1kaYQ27FYgyV8NZ-UDZwXhv5bOt2ZRWXrQZjxkGwMFZA/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_desember",
+      "s_link": "http://bisa.ai/s/pengumpulan_tugas_desember",
+      "link": "https://docs.google.com/forms/d/1OWTB3-GRmyc2fwV2ALWoFE3oELeNWT_Q85geTNkcbEY/edit?usp=drive_web",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_januari",
+      "s_link": "http://bisa.ai/s/mcojt_januari",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSetarq87ZFYXkSbrGEqlhDep8CcWu7hjJmDS2AEZ0Eu_H9yEw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "tutorial_bikin-rel",
+      "s_link": "http://tampil.id/s/tutorial_bikin-rel",
+      "link": "https://youtu.be/dovEnK-4QD8",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "OprecStudentAmbassador7",
+      "s_link": "http://www.bisa.ai/s/OprecStudentAmbassador7",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdDiZMwL2mU81LyNSPBi73ki5VPp4v9S8stO462vDl5uom5cQ/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_scopus",
+      "s_link": "http://tampil.id/s/workshop_scopus",
+      "link": "https://tampil.id/event/detail/VFZSbmVFMTNQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pelatihan_ai_smk",
+      "s_link": "http://www.bisa.ai/s/pelatihan_ai_smk",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSesmuPt7uQtJL-E87h5rYl6OI1Qvqg4aU5uJlSkHz6bj5h6vw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "gta",
+      "s_link": "http://bisa.ai/s/gta",
+      "link": "https://drive.google.com/drive/folders/1CJHiMYmcCBJU1XixbLWPbFX0IYw5wuYk?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bisasingkat",
+      "s_link": "http://www.bisa.ai/s/bisasingkat",
+      "link": "https://www.bisa.ai/s/YXNsa2pkZ2doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRsa2Fqc2hkbGthanNoZAo",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "https://drive.google.com/drive/folders/1Jq62qD0iIE6qjxLa7KSVEhavxDmFsRAE?usp=sharing",
+      "s_link": "http://www.bisa.ai/s/https://drive.google.com/drive/folders/1Jq62qD0iIE6qjxLa7KSVEhavxDmFsRAE?usp=sharing",
+      "link": "GuidebookTHINC-AI",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "GuidebookTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/GuidebookTHINC-AI",
+      "link": "https://drive.google.com/drive/folders/1Jq62qD0iIE6qjxLa7KSVEhavxDmFsRAE?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "GuidebookLombaTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/GuidebookLombaTHINC-AI",
+      "link": "https://drive.google.com/drive/folders/1Jq62qD0iIE6qjxLa7KSVEhavxDmFsRAE?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Guidebook-ThincAI",
+      "s_link": "http://www.bisa.ai/s/Guidebook-ThincAI",
+      "link": "https://drive.google.com/drive/folders/1Jq62qD0iIE6qjxLa7KSVEhavxDmFsRAE?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sosialisasi_magang",
+      "s_link": "http://tampil.id/s/sosialisasi_magang",
+      "link": "https://tampil.id/event/detail/VFZSbmVVMW5QVDA9",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "sosialisasi_magang-msib",
+      "s_link": "http://tampil.id/s/sosialisasi_magang-msib",
+      "link": "https://tampil.id/event/detail/VFZSbmVVMW5QVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "grup-peserta_mib",
+      "s_link": "http://bisa.ai/s/grup-peserta_mib",
+      "link": "https://chat.whatsapp.com/I6RUSHw9FLd4NOgY6c2tt9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "MIB_bisa-ai",
+      "s_link": "http://bisa.ai/s/MIB_bisa-ai",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfiP26mcMPP1cNoEQuo-iK84Id64AuxiQCJ1AIIEi946mi32g/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "grup_interview_MIB",
+      "s_link": "http://www.bisa.ai/s/grup_interview_MIB",
+      "link": "https://chat.whatsapp.com/BXQF4jablziLge5PPIIviq",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "asesmen_cyber-desember",
+      "s_link": "http://bisa.ai/s/asesmen_cyber-desember",
+      "link": "https://drive.google.com/drive/folders/1CPxn97Vpepqo-G9NsB1ZU-ydqzDgZLMC?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Pendaftaran_Pengajar1",
+      "s_link": "http://bisa.ai/s/Pendaftaran_Pengajar1",
+      "link": "https://docs.google.com/forms/d/1wSPVfXx4kOSdSv1OgxG0zCylHJE0hATbps48Ouc1424/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "kampus-merdeka",
+      "s_link": "http://tampil.id/s/kampus-merdeka",
+      "link": "https://chat.whatsapp.com/I6RUSHw9FLd4NOgY6c2tt9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "SIB_Bisa-AI",
+      "s_link": "http://bisa.ai/s/SIB_Bisa-AI",
+      "link": "https://chat.whatsapp.com/Er556FEz4oe0t4AfIxjTB5",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "grup_peserta-talks",
+      "s_link": "http://bisa.ai/s/grup_peserta-talks",
+      "link": "https://chat.whatsapp.com/KCmiGlInov1K9aXDeoj6gb",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bedah_MSIB",
+      "s_link": "http://bisa.ai/s/bedah_MSIB",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdvd5d60FaSYm_1UqjQHxcrn1d5soP1O8J6UZFxTkkRG4KjQg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "registrasi_course-mbkm",
+      "s_link": "http://www.bisa.ai/s/registrasi_course-mbkm",
+      "link": "https://docs.google.com/forms/d/1yYcHImxcdWYAgaNR2b_bd9e_GgxGFwgd5GiS0oZHGZc/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_januari",
+      "s_link": "http://bisa.ai/s/pengumpulan_tugas_januari",
+      "link": "https://docs.google.com/forms/d/1CamANQjhNEyIhPfpFdOLEg8fncp-h_2r1hkx4JrbYFI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_februari",
+      "s_link": "http://bisa.ai/s/mcojt_februari",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdP7-jD0ZZlT_wS_fP5TwvXWBS5642at08Q68dMHKgMkbSv_A/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_premium",
+      "s_link": "http://bisa.ai/s/mcojt_premium",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScACjZ4SGX_KBPwqKXn5334g55EYDMpQ57wCvf4CzfJULZLFw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_februari",
+      "s_link": "http://bisa.ai/s/magang_februari",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdITq_dPkBc2lMLNmMKa2TsqIowmAwsLmRGZr0usqVXHvQolQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "offline_training",
+      "s_link": "http://bisa.ai/s/offline_training",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSexR0tfLUJgVNMnmhPemVkyoeVZ4klUNtXl2ht0LEXbMnn4WQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "SosialisasiTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/SosialisasiTHINC-AI",
+      "link": "https://bit.ly/SosialisasiThincAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "PendaftaranSosialisasiTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/PendaftaranSosialisasiTHINC-AI",
+      "link": "https://bit.ly/PendaftaranSosialisasiThincAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CallingForSpeakerTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/CallingForSpeakerTHINC-AI",
+      "link": "bit.ly/CallingForSpeakerTHINCAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CallingForSpeakerTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/CallingForSpeakerTHINC-AI",
+      "link": "https://bit.ly/CallingForSpeakerTHINCAI",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "SpeakerWebinarTHINC-AI",
+      "s_link": "http://www.bisa.ai/s/SpeakerWebinarTHINC-AI",
+      "link": "https://bit.ly/CallingForSpeakerTHINCAI",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "prinsip-kerja_gerinda",
+      "s_link": "http://bisa.ai/s/prinsip-kerja_gerinda",
+      "link": "https://www.youtube.com/watch?v=xemxGfk3BZk",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "fullstack_programming",
+      "s_link": "http://bisa.ai/s/fullstack_programming",
+      "link": "https://bisa.ai/course/detail/Mzgz/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "data_science",
+      "s_link": "http://bisa.ai/s/data_science",
+      "link": "https://bisa.ai/course/detail/Mzcz/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "IoT",
+      "s_link": "http://bisa.ai/s/IoT",
+      "link": "https://bisa.ai/course/detail/Mzcy/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "cyber_security",
+      "s_link": "http://bisa.ai/s/cyber_security",
+      "link": "https://bisa.ai/course/detail/MzYy/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "design_grafik",
+      "s_link": "http://bisa.ai/s/design_grafik",
+      "link": "https://bisa.design/course/detail/MTY/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampus-sabtu",
+      "s_link": "http://bisa.ai/s/diskusi_kampus-sabtu",
+      "link": "https://drive.google.com/drive/folders/1agx3fSVBWuSeOJ_Vhj8ZSsGRgA-6hxt0?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampus-minggu",
+      "s_link": "http://bisa.ai/s/diskusi_kampus-minggu",
+      "link": "https://drive.google.com/drive/folders/1_7I1GDz96a_FucD5Rh47cx12V4bSZrVC?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampus-senin",
+      "s_link": "http://bisa.ai/s/diskusi_kampus-senin",
+      "link": "https://drive.google.com/drive/folders/1sxIx0w6MimWAIiiD9lUZt97GeA3o5ERO?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojtdesign_maret",
+      "s_link": "http://bisa.ai/s/mcojtdesign_maret",
+      "link": "https://docs.google.com/forms/d/1NkymbAuTi8aZX7itdfA0_WRS1FaV8aDm8ZlnrIgsoz4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "interview_magang",
+      "s_link": "http://bisa.ai/s/interview_magang",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSe_0mvyh7Kdpv37NwsYN3_KiBkwQAdXrr-pGv9nANLoMx_AUQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "interview_sib",
+      "s_link": "http://bisa.ai/s/interview_sib",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfaOm6l8-wVqBxLlx53hqXRCTmJC8fFdhNyJrdo4JBJ7mOhTA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "beasiswamcojtdesign_maret",
+      "s_link": "http://bisa.ai/s/beasiswamcojtdesign_maret",
+      "link": "https://docs.google.com/forms/d/1VvLBK_CHErU2-AwZ3tux8AABS6U8GJk1WO7s2TTYGS4/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "launch_coworking_1",
+      "s_link": "http://www.bisa.ai/s/launch_coworking_1",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSev143WphRH6XHq5rVsXpQP0pkdbQ9ioPfXomV9mqhXW9vDKw/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasAI",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasAI",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=886346602",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasDesain",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasDesain",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=886346602",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasCyber",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasCyber",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=418369027",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasProgramming",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasProgramming",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=1064616270",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasKolaborasi",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasKolaborasi",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=1071076819",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasDesain",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasDesain",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=848118714",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "CoworkingKelasDesign",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasDesign",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=848118714",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "DaftarEventCoworking",
+      "s_link": "http://www.bisa.ai/s/DaftarEventCoworking",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSev143WphRH6XHq5rVsXpQP0pkdbQ9ioPfXomV9mqhXW9vDKw/viewform?usp=sf_link",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampusai-hacker",
+      "s_link": "http://www.bisa.ai/s/diskusi_kampusai-hacker",
+      "link": "https://drive.google.com/file/d/1EptJ6VPKOob3hvZmSWunjd6Bc5GOknMY/view?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "diskusi_kampusaihacker",
+      "s_link": "http://www.bisa.ai/s/diskusi_kampusaihacker",
+      "link": "https://drive.google.com/file/d/17oppDCk4usmC3eZiIsw7h8zryEzfym1t/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampusaihipster",
+      "s_link": "http://www.bisa.ai/s/diskusi_kampusaihipster",
+      "link": "https://drive.google.com/file/d/1ZqBb3R8FdZiC101V38XIZVkapFiGWPUA/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "diskusi_kampusaihustler",
+      "s_link": "http://www.bisa.ai/s/diskusi_kampusaihustler",
+      "link": "https://drive.google.com/file/d/1EptJ6VPKOob3hvZmSWunjd6Bc5GOknMY/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_maret-2022",
+      "s_link": "http://bisa.ai/s/mcojt_maret-2022",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScq7j6fQ5A9EP3Ro51GI8ZIQBRrc5z4FeE4Vp9CT8ky2mDMwA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sertifikasi_internasional",
+      "s_link": "http://bisa.ai/s/sertifikasi_internasional",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfVviuEXjqssA77w6Xt6uobOR0nhIfuZoBKDHWgyggxi0kjIQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseCloudComputing",
+      "s_link": "http://www.bisa.ai/s/CourseCloudComputing",
+      "link": "https://academy.bisa.network/course/detail/MTg/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "BisaNetwork-CloudComputing",
+      "s_link": "http://www.bisa.ai/s/BisaNetwork-CloudComputing",
+      "link": "https://academy.bisa.network/course/detail/MTg/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseCloud",
+      "s_link": "http://www.bisa.ai/s/CourseCloud",
+      "link": "https://academy.bisa.network/course/detail/MTg/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CoworkingKelasAICreationWeek",
+      "s_link": "http://www.bisa.ai/s/CoworkingKelasAICreationWeek",
+      "link": "https://docs.google.com/spreadsheets/d/19y2Eu9yJws_0GDHXmZa7wCiQH5t_EsASQwYizqtJnq0/edit#gid=1000733935",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "contoh_sptjm_sr",
+      "s_link": "http://www.bisa.ai/s/contoh_sptjm_sr",
+      "link": "https://drive.google.com/drive/folders/1dCyURmLYjdJBYaH6XGpJwBSOoCQr4p_L?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_sptjm_sr",
+      "s_link": "http://www.bisa.ai/s/sib_sptjm_sr",
+      "link": "https://docs.google.com/forms/d/1jAmXF8L1j3gzJQhQa1SAq3zQyP6_cbiTBKOuD42KXxI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_sptjm_sr",
+      "s_link": "http://www.bisa.ai/s/magang_sptjm_sr",
+      "link": "https://docs.google.com/forms/d/1WgtiL3hOGVDqSbU-R0MnCTMYV8l7hpANzFkY6ynp-SE/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseSQL",
+      "s_link": "http://www.bisa.ai/s/CourseSQL",
+      "link": "https://academy.bisa.network/course/detail/MTc/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_registrasi_ulang_batch2",
+      "s_link": "http://www.bisa.ai/s/sib_registrasi_ulang_batch2",
+      "link": "https://docs.google.com/forms/d/1mj9iLXUX_BXvY0lHu6sXL0hzuCYs0vi1V7I1Jkk5WcM/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseBasicLinux",
+      "s_link": "http://www.bisa.ai/s/CourseBasicLinux",
+      "link": "https://academy.bisa.network/course/detail/MTY/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseGolang",
+      "s_link": "http://www.bisa.ai/s/CourseGolang",
+      "link": "https://academy.bisa.network/course/detail/MTM/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "permohonan_loa-magang",
+      "s_link": "http://bisa.ai/s/permohonan_loa-magang",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdVF6EovWuj-qOa0V46kMYR7hDsVReSXvKbqHgB0J_G0hbXCw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "permohonan_loa-sib",
+      "s_link": "http://bisa.ai/s/permohonan_loa-sib",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScq3-UDRYRn_X0UQ1zAKDwLSoUcnB3XdBfc7aWt2StBcB96UA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseMicrocontroller",
+      "s_link": "http://www.bisa.ai/s/CourseMicrocontroller",
+      "link": "https://academy.bisa.network/course/detail/MTI/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "administrasi_magang",
+      "s_link": "http://bisa.ai/s/administrasi_magang",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfxcn1lYKBVsrS613mkOJffZHy9PN-hIM4TLsA_rnPDmrbbbw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "administrasi_sib",
+      "s_link": "http://bisa.ai/s/administrasi_sib",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdvN7NEbRoOMDDc6utqTCRfCi7Jo3zEvU_xOhM-VrsffGEFLQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseBasicNodejs",
+      "s_link": "http://www.bisa.ai/s/CourseBasicNodejs",
+      "link": "https://academy.bisa.network/course/detail/MTk/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_registrasi_ulang_batch2",
+      "s_link": "http://www.bisa.ai/s/magang_registrasi_ulang_batch2",
+      "link": "https://docs.google.com/forms/d/1Z2kW9sbkfeoiFqOEp42dKM8xNoNa1tCAmLLWAnfGoKI/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_absensi_batch2",
+      "s_link": "http://www.bisa.ai/s/sib_absensi_batch2",
+      "link": "https://docs.google.com/forms/d/1dg7WKN4SOuq76k9ss9k59-hYkgLV5VBizOOXUWvVvCk/edit",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "magang_absensi_batch2",
+      "s_link": "http://www.bisa.ai/s/magang_absensi_batch2",
+      "link": "https://docs.google.com/forms/d/1WYHYo8548yzkexuy9KLm6k4y7BEM5wZZhf3SBzc_0X8/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bootcamp_unusia",
+      "s_link": "http://bisa.ai/s/bootcamp_unusia",
+      "link": "https://bisa.ai/course/detail/NDE0/3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "bootcamp_unusia",
+      "s_link": "http://bisa.ai/s/bootcamp_unusia",
+      "link": "https://bisa.ai/course/detail/NDE0/3",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "udemy_unusia",
+      "s_link": "http://bisa.ai/s/udemy_unusia",
+      "link": "https://www.udemy.com/course/cyber-security-bisaai/?couponCode=CSPEMULAFREE3",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas_februari",
+      "s_link": "http://bisa.ai/s/pengumpulan_tugas_februari",
+      "link": "https://docs.google.com/forms/d/1PnPfaoV1K-mVRKhTepEqE8micqpN8rIho5Z1aWKhYes/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseRaspberryPi",
+      "s_link": "http://www.bisa.ai/s/CourseRaspberryPi",
+      "link": "https://academy.bisa.network/course/detail/OQ/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseBasicPython",
+      "s_link": "http://www.bisa.ai/s/CourseBasicPython",
+      "link": "https://academy.bisa.network/course/detail/MTE/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sertifikat_pelatihan-UNUSIA",
+      "s_link": "http://bisa.ai/s/sertifikat_pelatihan-UNUSIA",
+      "link": "https://drive.google.com/drive/folders/16SQAeiCRHcMwtBv7ojaRG8gqcyb27Kla?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_uang-saku",
+      "s_link": "http://bisa.ai/s/magang_uang-saku",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScCkKwbXt83_rWtq8ZNN1SdZdPe4fxIzE1uUPLLGmd6VaMlfQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_uang-saku",
+      "s_link": "http://www.bisa.ai/s/sib_uang-saku",
+      "link": "Pengumpulan Berkas Untuk Penyaluran Uang Saku Mahasiswa Studi Independen",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_uang_saku",
+      "s_link": "http://www.bisa.ai/s/sib_uang_saku",
+      "link": "https://docs.google.com/forms/d/14YVsInuQHnIwfYJJd7AIPVx_DCrnUPaP6faR-U7BC1U/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Kartu_RPPT",
+      "s_link": "http://bisa.ai/s/Kartu_RPPT",
+      "link": "https://drive.google.com/drive/folders/1Whf2qDgMqsAD89qkIEfnIoM0Xeo9b8TA",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pembelajaran_terjadwal",
+      "s_link": "http://bisa.ai/s/pembelajaran_terjadwal",
+      "link": "https://docs.google.com/forms/d/168idFW59Q4TXCcn1XkOby1dcnm-Mc3L806omFTHPAWs/prefill",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pembelajaran-terjadwal",
+      "s_link": "http://bisa.ai/s/pembelajaran-terjadwal",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdDAhtf-Nbr6nbPntdxNLGv1KCOtAVA0P09jrOsJ6iCeomfvg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pembelajaran_terjadwal_DS",
+      "s_link": "http://www.bisa.ai/s/pembelajaran_terjadwal_DS",
+      "link": "https://docs.google.com/forms/d/1fCVZ6mTMzPrR_-MfV_D59l86pEPAQgRw_2QtdH-STzg/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_pembelajaran_terjadwal",
+      "s_link": "http://www.bisa.ai/s/sib_pembelajaran_terjadwal",
+      "link": "https://docs.google.com/forms/d/10V3kD5EwdCccUF7RmE0opys2L0y1cDfSpaVqRC4dAp8/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "absensi-survei_magang",
+      "s_link": "http://bisa.ai/s/absensi-survei_magang",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSehCr_LRj9lT2LuuNecLe-jxMr8SDjiZMDpDxOP-WrMljVvEA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_rppt_perubahan",
+      "s_link": "http://www.bisa.ai/s/sib_rppt_perubahan",
+      "link": "https://docs.google.com/forms/d/1_-8z4jh72S6fEaZUriDCFOavTN7hg0dtILEayR2ysh0/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "RPPT_final-magang",
+      "s_link": "http://bisa.ai/s/RPPT_final-magang",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeMb5Yhv7jPdnFn2Dtgyy6Swu0liQxVhJg1GfSU-ny03KDDsQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "RPPT_final-magangpremium",
+      "s_link": "http://bisa.ai/s/RPPT_final-magangpremium",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfthV4Yy9KtN2uNY8khlspaN_C_XNHtIwvhGWwaWbMD1rYoIQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "RPPT_OJT-GK",
+      "s_link": "http://bisa.ai/s/RPPT_OJT-GK",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdMeVMpH1ym2WJEKWr_Z8fzOb9eR2aNf0OJMLK25Af42UWynA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sertifikasi_cs_scanktp",
+      "s_link": "http://www.bisa.ai/s/sertifikasi_cs_scanktp",
+      "link": "https://docs.google.com/forms/d/1_yTX095JBs-LHZl1YxkCD0iRF4CbhfkYmR-xJHJyokA/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "ceklis_administrasi",
+      "s_link": "http://bisa.ai/s/ceklis_administrasi",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfHSA0Whr-Mro7mhajDvd7yy-Y3uNaT86c7ONAOUfKvTuCpMw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sib_ceklis_administrasi",
+      "s_link": "http://www.bisa.ai/s/sib_ceklis_administrasi",
+      "link": "https://docs.google.com/forms/d/10gDqAZX6MksVQAB7DKGMt7cw27FNQOI_MYlw7mO_DEw/edit",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "magang_maret",
+      "s_link": "http://bisa.ai/s/magang_maret",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdITq_dPkBc2lMLNmMKa2TsqIowmAwsLmRGZr0usqVXHvQolQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "dataset_dsr",
+      "s_link": "http://www.bisa.ai/s/dataset_dsr",
+      "link": "https://drive.google.com/file/d/1kuNqfhOyDkYNlmwz3TELuEVXKzxSut--/view?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "sertifikat_diklat-HMTP",
+      "s_link": "http://tampil.id/s/sertifikat_diklat-HMTP",
+      "link": "https://drive.google.com/drive/folders/1XWaYAiHVpW3EvXnV-plSuBPfUalTrSN0",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pengumpulan_tugas-konten",
+      "s_link": "http://bisa.ai/s/pengumpulan_tugas-konten",
+      "link": "https://drive.google.com/drive/folders/1_ru7fuGHi9VQziYhmENyv1WTvftM_gq_",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseNodeMCU",
+      "s_link": "http://www.bisa.ai/s/CourseNodeMCU",
+      "link": "https://academy.bisa.network/course/detail/MTA/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "RPPI",
+      "s_link": "http://www.bisa.ai/s/RPPI",
+      "link": "https://docs.google.com/forms/d/1OkIb41M1G2hvxybZG-ZmaxduJVh7eGMB6zakAPuN8Bw/edit#settings",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "rppi",
+      "s_link": "http://www.bisa.ai/s/rppi",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdebI7TJ59UIzUAxq9r9SKqdYo51_eezXKojyIdED9Yec7KVg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseSmartLamp",
+      "s_link": "http://www.bisa.ai/s/CourseSmartLamp",
+      "link": "https://academy.bisa.network/course/detail/Nw/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseSmartLamp",
+      "s_link": "http://www.bisa.ai/s/CourseSmartLamp",
+      "link": "https://academy.bisa.network/course/detail/Nw/1",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "presentasi_KBH2",
+      "s_link": "http://bisa.ai/s/presentasi_KBH2",
+      "link": "https://www.canva.com/design/DAE55HnnZ9g/_SpJLOFYLMjs1aSSKpsgAA/view?utm_content=DAE55HnnZ9g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Modul_Revisi",
+      "s_link": "http://bisa.ai/s/Modul_Revisi",
+      "link": "https://drive.google.com/drive/folders/1UQGz9YN7rkL7DEHuo5jK7tgwivEd2xTz?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "List_perbaikancourse",
+      "s_link": "http://bisa.ai/s/List_perbaikancourse",
+      "link": "https://docs.google.com/document/d/1qYIHnQHWfbk5JmINZlIspBBKDHy-xB2G/edit?usp=sharing&ouid=115014768181578619106&rtpof=true&sd=true",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Rekap_PengajarMSIB",
+      "s_link": "http://bisa.ai/s/Rekap_PengajarMSIB",
+      "link": "https://docs.google.com/spreadsheets/d/1jWaUbiXk_Y9HppxBGON6AG8Mpb3b5YRvx0o7embnL2c/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "MoM_Operasional",
+      "s_link": "http://bisa.ai/s/MoM_Operasional",
+      "link": "https://drive.google.com/drive/folders/1fpxEPe--_gGgxPHzyCHVKLdlkhAVsaGJ?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "workshop_scopus-maret",
+      "s_link": "http://tampil.id/s/workshop_scopus-maret",
+      "link": "https://tampil.id/event/detail/VFdwQmQwNUJQVDA9",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "pemilihan_TRIBE",
+      "s_link": "http://bisa.ai/s/pemilihan_TRIBE",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeCmQxnufNSScKiYrOMtlMUhURcdsttsCsyH5Oids5Eu9cEZg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "MoM_MSIB",
+      "s_link": "http://bisa.ai/s/MoM_MSIB",
+      "link": "https://drive.google.com/drive/folders/1fxi4-2AowDab9iNHNl1dmHk38WKPGCCs?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Sertifikasi_MaretDS",
+      "s_link": "http://bisa.ai/s/Sertifikasi_MaretDS",
+      "link": "https://drive.google.com/drive/folders/1txQR2MctaEtzo6UIDmlmt7F-zlifxscc?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "recording_project12",
+      "s_link": "http://bisa.ai/s/recording_project12",
+      "link": "https://docs.google.com/spreadsheets/d/1Z5JGy14vv30yIC0kEUorx3xG1r7sZYn4nnZGWiZ8kRs/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "CourseAktuator",
+      "s_link": "http://www.bisa.ai/s/CourseAktuator",
+      "link": "https://academy.bisa.network/course/detail/NQ/1",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "mcojt_april-2022",
+      "s_link": "http://bisa.ai/s/mcojt_april-2022",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfecBXFaOgqZDEXb69tRGxKbDyR3_5HpWOVcU9CqLvvijqfRg/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "Jadwal_SMKMARET",
+      "s_link": "http://bisa.ai/s/Jadwal_SMKMARET",
+      "link": "https://docs.google.com/spreadsheets/d/1QCq2iPXizjrBiMZwFpbSojkgzO9wtdik_yjbqd5lreE/edit?usp=sharing",
+      "count": 1,
+      "ips": [
+         "103.41.206.252"
+      ]
+   },
+   {
+      "name": "MCOJT_UI/UX",
+      "s_link": "http://bisa.ai/s/MCOJT_UI/UX",
+      "link": "https://drive.google.com/drive/folders/1jMb_SjBHKtRi4BOuRvAZRxcTwYRFIqNz?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "penjelasan_project",
+      "s_link": "http://www.bisa.ai/s/penjelasan_project",
+      "link": "https://drive.google.com/file/d/1BZKK9Sx5WHAvF5GheefuXUZnKQewy_X_/view?usp=sharing",
+      "count": 0,
+      "ips": []
+   },
+   {
+      "name": "designcrane",
+      "s_link": "http://bisa.ai/s/designcrane",
+      "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpt-hwk.com%2Fwp-content%2Fuploads%2F2020%2F06%2FDisplacement-Perancangan-Struktur.jpg&imgrefurl=https%3A%2F%2Fpt-hwk.com%2Fen%2Fcrane-design%2F&tbnid=xGrcKGQpBI155M&vet=12ahUKEwiRz5uAk832AhXFktgFHTf6CXQQMygGegUIARDLAQ..i&docid=zoasuy9vWjIWYM&w=600&h=460&q=design%20crane&ved=2ahUKEwiRz5uAk832AhXFktgFHTf6CXQQMygGegUIARDLAQ#imgrc=RhXTS43vj9uWaM&imgdii=6npX4ccZPvJFcM",
+      "count": 0,
+      "ips": []
    }
 ]
