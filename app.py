@@ -2,7 +2,7 @@ from flask import Flask, request, redirect
 import json
 
 app = Flask(__name__)
-filedata = "/home/infra/shortener-prod/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
+filedata = "/home/infra/backup/shortener-prod/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
 #filedata = "/var/www/shortener/doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRs.json"
 endpoint = ""
 #endpoint = "/s"
@@ -18,7 +18,8 @@ def showfile():
 	else:
 		return json.loads(open(filedata,"r").read())
 
-@app.route(endpoint+'/YXNsa2pkZ2doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRsa2Fqc2hkbGthanNoZAo', methods=["GET","POST"])
+@app.route('/admin', methods=["GET","POST"])
+#@app.route(endpoint+'/YXNsa2pkZ2doYWtqc2hsZGtqYWhzbGprZGFqa2xzaGRha3NqaGRsa2Fqc2hkbGthanNoZAo', methods=["GET","POST"])
 def admin():
 	shorturl = "http://"+request.headers['Host']+"/s/"
 	html = """
