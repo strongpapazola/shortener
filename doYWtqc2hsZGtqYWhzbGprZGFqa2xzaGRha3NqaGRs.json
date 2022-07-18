@@ -2531,7 +2531,7 @@
       "name": "sosialisasi_magang",
       "s_link": "http://www.bisa.ai/s/sosialisasi_magang",
       "link": "https://youtu.be/qIHK8scEYbc",
-      "count": 20,
+      "count": 30,
       "ips": [
          "103.41.206.83",
          "103.41.206.252",
@@ -2543,6 +2543,16 @@
          "103.41.206.252",
          "103.41.206.252",
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -5336,9 +5346,11 @@
       "name": "datasetspeechclassification",
       "s_link": "http://www.bisa.ai/s/datasetspeechclassification",
       "link": "https://drive.google.com/drive/folders/1ti2RTxjtBW45FN444FoBzFETPdbJgIHf?usp=sharing",
-      "count": 11,
+      "count": 13,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -5409,9 +5421,10 @@
       "name": "reproduce_b1",
       "s_link": "http://www.bisa.ai/s/reproduce_b1",
       "link": "https://bisa.ai/course/detail/MzQy/3",
-      "count": 2,
+      "count": 3,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251"
       ]
    },
@@ -5908,9 +5921,11 @@
       "name": "LombaVirtualBISAAI",
       "s_link": "http://www.bisa.ai/s/LombaVirtualBISAAI",
       "link": "https://forms.gle/3AT99akBSEBtTYf8A",
-      "count": 12,
+      "count": 14,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -7448,9 +7463,10 @@
       "name": "DaftarEventCoworking",
       "s_link": "http://www.bisa.ai/s/DaftarEventCoworking",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSev143WphRH6XHq5rVsXpQP0pkdbQ9ioPfXomV9mqhXW9vDKw/viewform?usp=sf_link",
-      "count": 3,
+      "count": 4,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251"
       ]
@@ -7584,9 +7600,11 @@
       "name": "sib_registrasi_ulang_batch2",
       "s_link": "http://www.bisa.ai/s/sib_registrasi_ulang_batch2",
       "link": "https://docs.google.com/forms/d/1mj9iLXUX_BXvY0lHu6sXL0hzuCYs0vi1V7I1Jkk5WcM/edit",
-      "count": 3,
+      "count": 5,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251"
       ]
@@ -7640,9 +7658,10 @@
       "name": "administrasi_magang",
       "s_link": "http://bisa.ai/s/administrasi_magang",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfxcn1lYKBVsrS613mkOJffZHy9PN-hIM4TLsA_rnPDmrbbbw/viewform",
-      "count": 2,
+      "count": 3,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251"
       ]
    },
@@ -7935,9 +7954,10 @@
       "name": "pengumpulan_tugas-konten",
       "s_link": "http://bisa.ai/s/pengumpulan_tugas-konten",
       "link": "https://drive.google.com/drive/folders/1_ru7fuGHi9VQziYhmENyv1WTvftM_gq_",
-      "count": 2,
+      "count": 3,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251"
       ]
    },
@@ -8114,9 +8134,15 @@
       "name": "penjelasan_project",
       "s_link": "http://www.bisa.ai/s/penjelasan_project",
       "link": "https://drive.google.com/file/d/1BZKK9Sx5WHAvF5GheefuXUZnKQewy_X_/view?usp=sharing",
-      "count": 55,
+      "count": 61,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8255,9 +8281,12 @@
       "name": "playstore_bisa-ai",
       "s_link": "http://bisa.ai/s/playstore_bisa-ai",
       "link": "https://play.google.com/store/apps/details?id=com.pos.bisaaiacademy",
-      "count": 13,
+      "count": 16,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8276,9 +8305,10 @@
       "name": "MSIB_kampus-bisaai",
       "s_link": "http://bisa.ai/s/MSIB_kampus-bisaai",
       "link": "https://chat.whatsapp.com/Etfna87kNJ3EPthb1JBh0B",
-      "count": 2,
+      "count": 3,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251"
       ]
    },
@@ -8323,9 +8353,24 @@
       "name": "katalog_bisa",
       "s_link": "http://bisa.ai/s/katalog_bisa",
       "link": "https://drive.google.com/file/d/1ELMfH1HDBbXatK_dWu5tcO6N09eiDKw_/view?usp=drivesdk",
-      "count": 131,
+      "count": 146,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8503,9 +8548,12 @@
       "name": "panduan_tampil",
       "s_link": "http://www.bisa.ai/s/panduan_tampil",
       "link": "https://drive.google.com/file/d/1NMIj7d354w1COXh-IUJZLT0ULg5TjTSt/view?usp=sharing ",
-      "count": 16,
+      "count": 19,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8527,9 +8575,10 @@
       "name": "intensive_class",
       "s_link": "http://bisa.ai/s/intensive_class",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeWcPPZrghrxxccUEGS-2QtrDI84dAzTQumpQcoe1jkyq8EuQ/viewform",
-      "count": 2,
+      "count": 3,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
          "103.41.206.251"
       ]
    },
@@ -8624,9 +8673,10 @@
       "name": "rppt_juni-juli",
       "s_link": "http://www.bisa.ai/s/rppt_juni-juli",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfQu8t_HcmqdHU1c3JqSfrcK4S0nZ-vKHovNiM1RmCM9bjAGQ/viewform?pli=1",
-      "count": 1,
+      "count": 2,
       "ips": [
-         "103.41.206.252"
+         "103.41.206.252",
+         "103.41.206.251"
       ]
    },
    {
@@ -8737,9 +8787,11 @@
       "name": "IAUTS_SIB",
       "s_link": "http://www.bisa.ai/s/IAUTS_SIB",
       "link": "https://docs.google.com/spreadsheets/d/1OKbqs9DbruXWRC3f0D3G0fr42GmLuK-U/edit?usp=sharing&ouid=115014768181578619106&rtpof=true&sd=true",
-      "count": 14,
+      "count": 16,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8820,9 +8872,13 @@
       "name": "mcojt_juli-2022",
       "s_link": "http://bisa.ai/s/mcojt_juli-2022",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZ9YXc0AnN-rGTKJd_ovJ4lvKsw4B4XAPEa6CWy1W8vRTbyg/viewform",
-      "count": 47,
+      "count": 51,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -8875,9 +8931,16 @@
       "name": "magang_premium",
       "s_link": "http://bisa.ai/s/magang_premium",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSf42NxUJPrejDHwwGPdxb-8Xsz9Xen8Q715Tpmax6EMFM63vw/viewform",
-      "count": 356,
+      "count": 363,
       "ips": [
          "103.41.206.252",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
+         "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
          "103.41.206.251",
@@ -9370,6 +9433,42 @@
       "name": "permohonan_jadwal-konversi",
       "s_link": "http://bisa.ai/s/permohonan_jadwal-konversi",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSdNkmJsHH6eDIkfnEiRIB4NeyoED93niVmAxDHeHgl70Dhdrw/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.251"
+      ]
+   },
+   {
+      "name": "magang_premium2",
+      "s_link": "http://bisa.ai/s/magang_premium2",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfslIP96yBRfwZm5PNJ_5PTaYzjqFpzCwKq7u7qF0G9p7txWQ/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.251"
+      ]
+   },
+   {
+      "name": "mcojt_agustus-2022",
+      "s_link": "http://bisa.ai/s/mcojt_agustus-2022",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_oC7u9XVQefpz-bOuKXdj20sQWLJhwVaGdWF1HKlrwhRIA/viewform",
+      "count": 1,
+      "ips": [
+         "103.41.206.251"
+      ]
+   },
+   {
+      "name": "tutorial_penggunaan-tampil",
+      "s_link": "http://bisa.ai/s/tutorial_penggunaan-tampil",
+      "link": "https://youtu.be/ye29aY5Dplo",
+      "count": 1,
+      "ips": [
+         "103.41.206.251"
+      ]
+   },
+   {
+      "name": "format_administrasi-msib3",
+      "s_link": "http://bisa.ai/s/format_administrasi-msib3",
+      "link": "https://drive.google.com/drive/folders/1xUf4IWD-RR1NcCsMBl_zYuk1HNM7P5jS",
       "count": 1,
       "ips": [
          "103.41.206.251"
